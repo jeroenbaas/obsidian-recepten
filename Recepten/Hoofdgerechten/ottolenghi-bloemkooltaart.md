@@ -1,28 +1,47 @@
+---
+title: "Ottolenghi's bloemkooltaart met rode ui"
+category: "Hoofdgerecht"
+cuisine: "Midden-Oosters"
+difficulty: "Gemiddeld"
+time: "75 minuten + afkoeltijd"
+portions: "4-6 personen"
+source: "Plenty More - Yotam Ottolenghi (via Culy.nl)"
+author: "Yotam Ottolenghi"
+dietary:
+  - "vegetarisch"
+tags:
+  - "#recept/hoofdgerecht"
+  - "#keuken/midden-oosters"
+  - "#dieet/vegetarisch"
+  - "#bron/ottolenghi"
+last_made: null
+rating: null
+---
+
 # Ottolenghi's bloemkooltaart met rode ui
 
-**Type:** Hoofdgerecht (licht)  
-**Personen:** ~4-6  
-**Bereidingstijd:** ~75 minuten + afkoeltijd  
-**Bron:** Plenty More - Yotam Ottolenghi (via Culy.nl)
+> "In het geval van bloemkool, en vooral wanneer daar kaas bij komt kijken, moet ik extra mijn best doen om mijn lezers ervan te overtuigen dat ze dit echt willen eten. Maar hiermee moet dat volgens mij gemakkelijk lukken." — Yotam Ottolenghi
 
-## Ingrediënten
+## 🥘 Ingrediënten
 
-- Bloemkoolroosjes
-- Rode ui
-- Olijfolie
-- Rozemarijn
-- Eieren
-- Basilicum
-- Bloem
-- Bakpoeder
-- Geelwortel (kurkuma)
-- Parmezaan
-- Sesamzaad
-- Nigellazaad
-- Gesmolten boter (voor invetten)
-- Zout en peper
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Bloemkoolroosjes |  |  |
+| Rode ui | 1 stuk | 4 plakken + gehakt |
+| Olijfolie |  |  |
+| Rozemarijn |  |  |
+| Eieren |  |  |
+| Basilicum |  |  |
+| Bloem |  |  |
+| Bakpoeder |  |  |
+| Geelwortel (kurkuma) |  |  |
+| Parmezaan |  |  |
+| Sesamzaad |  |  |
+| Nigellazaad |  |  |
+| Gesmolten boter |  | Voor invetten |
+| Zout en peper |  | Naar smaak |
 
-## Bereiding
+## 👨‍🍳 Bereiding
 
 1. Verwarm de oven voor op 200°C.
 
@@ -44,17 +63,16 @@
 
 10. Laat minstens 25 minuten afkoelen voor je aansnijdt — nog net warm of op kamertemperatuur.
 
-## Serveren
+## 💡 Tips & Variaties
 
-Ottolenghi adviseert: serveer met een eenvoudige salade van komkommer, dille, munt, suiker, ciderazijn en raapzaadolie.
+- Serveer met een eenvoudige salade van komkommer, dille, munt, suiker, ciderazijn en raapzaadolie
+- Goed verpakt smaakt de taart de volgende dag nog lekkerder
 
-> *"In het geval van bloemkool, en vooral wanneer daar kaas bij komt kijken, moet ik extra mijn best doen om mijn lezers ervan te overtuigen dat ze dit echt willen eten. Maar hiermee moet dat volgens mij gemakkelijk lukken."* — Yotam Ottolenghi
+## 🗒️ Maaltijdlog
 
-## Tip
-
-Goed verpakt smaakt de taart de volgende dag nog lekkerder!
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
 
 ---
 
-*Bron: Culy.nl (uit Plenty More)*  
 *Toegevoegd: 2026-02-08*

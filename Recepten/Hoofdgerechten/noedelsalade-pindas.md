@@ -1,30 +1,47 @@
+---
+title: "Noedelsalade met pinda's"
+category: "Hoofdgerecht"
+cuisine: "Aziatisch"
+difficulty: "Makkelijk"
+time: "20 minuten"
+portions: "1 persoon"
+source: "Koken met Karin (Trouw)"
+author: "Karin"
+dietary:
+  - "vegan"
+tags:
+  - "#recept/hoofdgerecht"
+  - "#keuken/aziatisch"
+  - "#dieet/vegan"
+  - "#dieet/eenpersoons"
+last_made: null
+rating: null
+---
+
 # Noedelsalade met pinda's
 
-**Type:** Hoofdgerecht (eenpersoons)  
-**Personen:** 1  
-**Dieet:** Vegan  
-**Bron:** Koken met Karin (Trouw)
+> Een snelle, smaakvolle vegan eenpersoonsmaaltje met winterpeen, witte kool en een pittige pindasaus.
 
-## Ingrediënten
+## 🥘 Ingrediënten
 
-- 50 g (brede) rijstnoedels (mie)
-- 100 g winterpeen
-- 100 g witte kool
-- 100 g komkommer
-- 2 lente-ui
-- 30 g pinda's
-- 1 volle eetlepel sesamzaad
-- Plantaardige olie
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Brede rijstnoedels (mie) | 50 g |  |
+| Winterpeen | 100 g |  |
+| Witte kool | 100 g |  |
+| Komkommer | 100 g |  |
+| Lente-ui | 2 stuks |  |
+| Pinda's | 30 g |  |
+| Sesamzaad | 1 el | Volle eetlepel |
+| Plantaardige olie |  | Voor roerbakken |
+| Pindakaas | 40 g | 2 kleine el |
+| Sriracha | 1 el |  |
+| Sojasaus | 1 el |  |
+| Gembersiroop | 1 el |  |
+| Limoen | ½ stuk | Sap |
+| Zout |  | Snuf |
 
-### Saus
-- 40 g pindakaas (2 kleine eetlepels)
-- 1 eetlepel sriracha
-- 1 eetlepel sojasaus
-- 1 eetlepel gembersiroop
-- Sap van ½ limoen
-- Snuf zout
-
-## Bereiding
+## 👨‍🍳 Bereiding
 
 1. Rooster de pinda's met het sesamzaad al omscheppend goudbruin in een hapjespan met een drupje olie. Hou apart.
 
@@ -38,11 +55,17 @@
 
 6. Schep in een kom, bestrooi met de sesampinda's. Garneer met nog wat extra sriracha.
 
-## Tip
+## 💡 Tips & Variaties
 
-Kan met elke soort noedels die je lekker vindt of in huis hebt. Vervang de sriracha eventueel door sambal, de pinda's door seroendeng.
+- Kan met elke soort noedels die je lekker vindt of in huis hebt
+- Vervang de sriracha eventueel door sambal
+- Vervang de pinda's door seroendeng
+
+## 🗒️ Maaltijdlog
+
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
 
 ---
 
-*Bron: Koken met Karin (verschenen in Trouw)*  
 *Toegevoegd: 2026-02-08*

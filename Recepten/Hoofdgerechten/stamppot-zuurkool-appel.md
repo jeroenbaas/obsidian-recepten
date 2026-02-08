@@ -1,35 +1,65 @@
+---
+title: "Stamppot met zuurkool, noten en gebakken appel"
+category: "Hoofdgerecht"
+cuisine: "Nederlands"
+difficulty: "Makkelijk"
+time: "50 minuten"
+portions: "4 personen"
+source: "Receptenkaart (WhatsApp)"
+author: null
+dietary:
+  - "vegetarisch"
+tags:
+  - "#recept/hoofdgerecht"
+  - "#keuken/nederlands"
+  - "#dieet/vegetarisch"
+  - "#seizoen/herfst"
+  - "#seizoen/winter"
+last_made: null
+rating: null
+---
+
 # Stamppot met zuurkool, noten en gebakken appel
 
-**Personen:** 4  
-**Bereidingstijd:** ~50 minuten  
-**Type:** Hoofdgerecht  
-**Voedingswaarden:** ~561 kcal per portie | 8g eiwit | 29g vet | 62g koolhydraten
+> Een heerlijke balans van smaken! Een klassieke stamppot met zuurkool, verrijkt met zoete aardappel, crème fraîche, venkelzaad en een notenmix.
 
-## Ingrediënten
+## 🥘 Ingrediënten
 
-- Aardappelen
-- Zoete aardappelen
-- Crème fraîche
-- Boter
-- Kaneel
-- Chilivlokken
-- Rode uien
-- Venkelzaad
-- Zuurkool
-- Notenmix
-- Appel (voor gebakken appel)
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Aardappelen |  |  |
+| Zoete aardappelen |  |  |
+| Crème fraîche |  |  |
+| Boter |  |  |
+| Kaneel |  |  |
+| Chilivlokken |  | Optioneel |
+| Rode uien |  |  |
+| Venkelzaad |  |  |
+| Zuurkool |  |  |
+| Notenmix |  |  |
+| Appel |  | Voor gebakken appel |
 
-## Bereiding
+## 👨‍🍳 Bereiding
 
 1. Kook de aardappelen en zoete aardappelen en stamp ze fijn met crème fraîche en boter.
+
 2. Karameliseer de appel met kaneel en eventueel chilivlokken.
+
 3. Kook de zuurkool met rode ui, venkelzaad en specerijen.
+
 4. Voeg de notenmix toe.
+
 5. Combineer alles tot een smakelijke stamppot.
 
-> *"Een heerlijke balans van smaken!"*
+## 💡 Tips & Variaties
+
+- Een heerlijke balans van smaken!
+
+## 🗒️ Maaltijdlog
+
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
 
 ---
 
-*Bron: Receptenkaart (gedeeld in WhatsApp groep)*  
 *Toegevoegd: 2026-02-08*

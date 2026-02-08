@@ -1,23 +1,45 @@
-# Een lekkere snert maar dan zonder de worst
+---
+title: "Snert zonder worst"
+category: "Soep"
+cuisine: "Nederlands"
+difficulty: "Makkelijk"
+time: "90 minuten"
+portions: "4-6 personen"
+source: "wajongmagazine.trade (origineel van biobudget.nl)"
+author: null
+dietary:
+  - "vegetarisch"
+  - "vegan"
+tags:
+  - "#recept/soep"
+  - "#keuken/nederlands"
+  - "#dieet/vegetarisch"
+  - "#dieet/vegan"
+  - "#seizoen/winter"
+last_made: null
+rating: null
+---
 
-**Type:** Hoofdgerecht / soep  
-**Personen:** ~4-6  
-**Bron:** wajongmagazine.trade (origineel van biobudget.nl)
+# Snert zonder worst
 
-## Ingrediënten
+> Een prijswinnend vegetarisch recept voor de klassieke Nederlandse erwtensoep, maar dan zonder vlees.
 
-- 500 gram spliterwten
-- 2 prei
-- 2 wortelen
-- ½ knolselderij
-- 2 wortelpeterselie
-- 5 stengels bleekselderij
-- ½ bos bladselderij
-- 2 liter groentebouillon (2 liter water + 4 vegetarische bouillonblokjes)
-- Roerbakolie
-- Peper en zout
+## 🥘 Ingrediënten
 
-## Bereiding
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Spliterwten | 500 g |  |
+| Prei | 2 stuks |  |
+| Wortelen | 2 stuks |  |
+| Knolselderij | ½ stuk |  |
+| Wortelpeterselie | 2 stuks |  |
+| Bleekselderij | 5 stengels |  |
+| Bladselderij | ½ bos |  |
+| Groentebouillon | 2 liter | 2 liter water + 4 blokjes |
+| Roerbakolie |  | Voor bakken |
+| Peper en zout |  | Naar smaak |
+
+## 👨‍🍳 Bereiding
 
 1. Zet de spliterwten en groentebouillon op en laat het aan de kook komen. Zachtjes laten koken totdat de spliterwten uit elkaar vallen.
 
@@ -35,9 +57,16 @@
 
 8. Net als een snert: als je iets overhoudt, de volgende dag opwarmen smaakt het nog beter!
 
-Eet smakelijk!
+## 💡 Tips & Variaties
+
+- De volgende dag opgewarmd smaakt de snert vaak nog beter
+- Serveer met roggebrood en mosterd
+
+## 🗒️ Maaltijdlog
+
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
 
 ---
 
-*Bron: wajongmagazine.trade (prijswinnend vegetarisch recept)*  
 *Toegevoegd: 2026-02-08*
