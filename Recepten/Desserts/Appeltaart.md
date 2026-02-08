@@ -1,44 +1,35 @@
----
-tags:
-  - dessert
-  - vegetarisch
-  - bakken
----
-
 # Appeltaart
 
-De klassieker! Met custardpoeder in de vulling, dat maakt 'm extra romig.
+**Type:** Dessert / gebak  
+**Vorm:** 26 cm springvorm  
+**Baktijd:** 60-70 minuten
 
 ## Ingrediënten
 
 ### Deeg
-- 200 g bloem
-- 100 g suiker
-- 100 g koude boter
+- 300 g bloem
+- 210 g boter of margarine
+- 150 g suiker
+- Vanillesuiker
 - 1 ei
-- snuf zout
 
 ### Vulling
-- 5-6 grote appels (zure, zoals Granny Smith of Goudreinet)
-- 2 el custardpoeder
-- 50 g suiker
-- 1 tl kaneel
-- citroensap
-- rozijnen (optioneel)
+- 1 kg appels
+- Kaneel
+- Rozijnen of krenten
+- Custardpoeder
 
 ## Bereiding
 
-1. **Deeg:** Meng bloem, suiker en zout. Wrijf de koude boter erdoor tot kruimelig mengsel. Voeg ei toe en kneed kort tot een bal. Laat 30 min rusten in koelkast.
-
-2. **Vulling:** Schil en snijd appels in plakken. Bestrooi met citroensap. Meng custardpoeder, suiker en kaneel door elkaar. Schep door de appels.
-
-3. **Bak:** Vet springvorm in. Rol 2/3 deeg uit voor bodem en rand. Schep vulling erin. Rol resterend deeg uit voor bovenkant (helemaal dicht of lattice). Bestrijk met ei.
-
-4. **Bak:** 40-50 min op 180°C tot goudbruin.
-
-## Tips
-- Het custardpoeder bindt het vocht van de appels, waardoor de vulling romiger wordt.
-- Serveer met slagroom of vanille-ijs.
+1. Bereid het deeg met bloem, boter, suiker, vanillesuiker en ei.
+2. Schil en snijd de appels, meng met kaneel, rozijnen/krenten en custardpoeder.
+3. Bekleed de springvorm met deeg, vul met het appelmengsel.
+4. Dek af met de rest van het deeg (strips of geheel).
+5. Bak op 175°C (boven- en onderwarmte) in 60-70 minuten goudbruin.
 
 ---
-*Bron: Recepten groep*
+
+**Notities:** Boven- en onderwarmte (geen hetelucht), geen slagroom
+
+*Bron: Receptenkaart (gedeeld in WhatsApp groep)*  
+*Toegevoegd: 2026-02-08*
