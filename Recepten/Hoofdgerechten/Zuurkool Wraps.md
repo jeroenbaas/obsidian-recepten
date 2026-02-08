@@ -33,7 +33,7 @@ rating: null
 
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Portobello's | 2 stuks | Schoonmaken, steeltje verwijderen |
+| Champignons | 2 portobello's of 250g gewone/kastanje | Schoonmaken, steeltje verwijderen |
 | Sojasaus | 2 eetlepels | Voor marineren |
 | Zuurkool | 400 g | Uitgelekt |
 | Zongedroogde tomaatjes | 8 stuks | - |
@@ -45,7 +45,7 @@ rating: null
 
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Vegan mayonaise | 6 eetlepels | Veganaise of mayo zonder ei |
+| Vegan mayonaise | 6 eetlepels | Veganaise of mayo zonder ei; deels vervangbaar door yoghurt |
 | Ketchup | 1,5 eetlepel | - |
 | Chilipoeder | 1/2 - 1 theelepel | Naar smaak |
 | Knoflookpoeder | 1/2 theelepel | - |
@@ -66,7 +66,7 @@ rating: null
 
 ## 💡 Tips & Variaties
 
-- **🍄 Paddestoelen:** Geen portobello? Gebruik grote champignons of oesterzwammen
+- **🍄 Paddestoelen:** Gebruik portobello, gewone champignons of kastanje champignons
 - **🌶️ Pit:** Pas de hoeveelheid chilipoeder aan naar smaak
 - **🥬 Extra groen:** Voeg gesnipperde rucola toe
 - **🧀 Vegan kaas:** Optioneel: geraspte vegan kaas erover
