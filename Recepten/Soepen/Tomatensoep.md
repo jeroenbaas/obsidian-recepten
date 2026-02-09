@@ -1,31 +1,69 @@
+---
+title: "Tomatensoep"
+category: "Soep"
+cuisine: "Italiaans"
+difficulty: "Gemiddeld"
+time: "45 minuten"
+portions: "4 personen (1 liter)"
+source: ""
+author: ""
+dietary:
+  - "vegetarisch"
+tags:
+  - "#recept/soep"
+  - "#recept/vegetarisch"
+  - "#tomaten"
+last_made: null
+rating: null
+---
+
 # Tomatensoep
 
-## Ingrediënten (voor 1 liter soep)
+> Een romige soep van geroosterde tomaten met een mix van verschillende tomatensoorten voor een diepe, zoete smaak. Lekker met een klodder zure room en verse basilicum.
 
-- 1 kg gemengde tomaten
-- 2 uien
-- 1 rode peper
-- 2 tenen knoflook
-- 1 blikje tomatenpuree
-- 1 scheutje rode wijn
-- 125 ml zure room
-- 0,5 ltr groente bouillon
-- 2 takjes oregano of 1 tl gedroogde oregano
-- 2 takjes tijm of 1 tl gedroogde tijm
-- Handjevol basilicum
-- Peper en zout
-- Olijfolie
+## 🥘 Ingrediënten
 
-## Bereiding
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Gemengde tomaten | 1 kg | Mix van pomodori, kerstomaatjes |
+| Uien | 2 | |
+| Rode peper | 1 | |
+| Knoflook | 2 tenen | |
+| Tomatenpuree | 1 blikje | |
+| Rode wijn | 1 scheutje | |
+| Zure room | 125 ml | |
+| Groentebouillon | 0,5 ltr | |
+| Oregano | 2 takjes of 1 tl | Gedroogd |
+| Tijm | 2 takjes of 1 tl | Gedroogd |
+| Basilicum | Handjevol | Vers |
+| Peper en zout | | Naar smaak |
+| Olijfolie | | |
 
-Voor de tomaten een mix van verschillende pomodori, kerstomaatjes gebruiken. Je kan de soep ook met één soort maken, maar een mix is leuk: de ene tomaat is wat zoeter dan de andere en dit geeft een mooie smaak af.
+## 👨‍🍳 Bereiding
 
-Was de tomaten en halveer de grote tomaten. Leg ze in een ovenschaal en bestrooi dit met olijfolie, zout en peper. Laat de tomaten ongeveer 15 minuten onder de grill staan (ongeveer 250 graden). Deze stap kan je eventueel achterwege laten, maar door het grillen komt er een mooie zoete smaak vrij.
+1. Was de tomaten en halveer de grote tomaten. Leg ze in een ovenschaal en besprenkel met olijfolie, zout en peper. Laat de tomaten ongeveer 15 minuten grillen op 250°C (optioneel maar geeft een mooie zoete smaak).
 
-Pel en snipper de ui en hak de rode peper en de knoflook fijn. Zet een pan op het vuur met een beetje olijfolie en fruit de groente aan. Voeg het blikje tomatenpuree toe en laat de smaken goed in elkaar trekken. Blus dit mengsel af met een scheutje rode wijn.
+2. Pel en snipper de ui en hak de rode peper en knoflook fijn. Fruit dit aan in een pan met olijfolie.
 
-Voeg de gegrilde tomaten toe en de halve liter bouillon. Voeg de tijm en de oregano toe en laat het mengsel minimaal een kwartiertje pruttelen.
+3. Voeg het tomatenpuree toe en laat de smaken goed intrekken. Blus af met een scheutje rode wijn.
 
-Pureer het geheel met een staafmixer. Breng de tomatensoep eventueel nog wat op smaak met zout. Voeg tenslotte nog wat verse basilicum toe en leg een el zure room in het bord.
+4. Voeg de gegrilde tomaten en bouillon toe. Voeg tijm en oregano toe en laat minimaal 15 minuten pruttelen.
 
-Lekker met een ciabatta broodje erbij!
+5. Pureer het geheel met een staafmixer. Breng op smaak met zout.
+
+6. Serveer met verse basilicum en een eetlepel zure room in het bord.
+
+## 💡 Tips & Variaties
+
+- Lekker met een ciabatta broodje erbij
+- Gebruik een mix van verschillende tomaten voor een complexere smaak
+
+## 🗒️ Maaltijdlog
+
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
+| | | |
+
+---
+
+*Toegevoegd: 2025-02-09*
