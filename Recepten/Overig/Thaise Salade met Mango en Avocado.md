@@ -1,34 +1,74 @@
+---
+title: "Thaise Salade met Mango en Avocado"
+category: "Bijgerecht"
+cuisine: "Thais"
+difficulty: "Makkelijk"
+time: "15 minuten"
+portions: "2 personen"
+source: "thaise salade met mango en avocado.pdf"
+author: ""
+dietary:
+  - "vegetarisch"
+tags:
+  - "#recept/bijgerecht"
+  - "#salade"
+  - "#thais"
+last_made: null
+rating: null
+---
+
 # Thaise Salade met Mango en Avocado
 
-Voor 2 personen
+> Een frisse, zoet-pittige salade met tropische smaken. Lekker bij noodles of als bijgerecht.
 
-## Ingrediënten
+## 🥘 Ingrediënten
 
-- 1 avocado in parten
-- 1 mango, in parten
-- 1 zakje gemengde bladsla
-- 100 gram taugé
-- Halve rode ui in dunne ringen
-- Handje cashewnoten
-- Optioneel: verse koriander en limoen
+### Salade
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Avocado | 1 | in parten |
+| Mango | 1 | in parten |
+| Gemengde bladsla | 1 zakje | |
+| Taugé | 100 g | |
+| Rode ui | ½ | in dunne ringen |
+| Cashewnoten | 1 handje | |
+| Verse koriander | optioneel | |
+| Limoen | optioneel | |
 
-### Voor de dressing
-- 2 el mayonaise
-- 1 el fijngesneden (witte) ui
-- 2 el fijngesneden verse gember
-- Halve teen knoflook
-- 1 el tomatenketchup
-- 1 el rijstazijn
-- 2 el sojasaus
-- 1 el water
-- 1 el fijngesneden rode peper
+### Dressing
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Mayonaise | 2 el | |
+| (Witte) ui | 1 el | fijngesneden |
+| Verse gember | 2 el | fijngesneden |
+| Knoflook | ½ teen | |
+| Tomatenketchup | 1 el | |
+| Rijstazijn | 1 el | |
+| Sojasaus | 2 el | |
+| Water | 1 el | |
+| Rode peper | 1 el | fijngesneden |
 
-## Bereiding
+## 👨‍🍳 Bereiding
 
-Verdeel de sla op een bord. Leg er de parten avocado en mango op en verdeel er wat taugé over. Leg de rode ui erover.
+1. Verdeel de sla op een bord. Leg er de parten avocado en mango op en verdeel er wat taugé over. Leg de rode ui erover.
 
-Maak de dressing door alle ingrediënten met een staafmixer fijn te malen. Verdeel de dressing over de salade en garneer met cashewnoten.
+2. Maak de dressing door alle ingrediënten met een staafmixer fijn te malen.
 
-*Tip: Rasp eens een bevroren peper over je gerecht. Waanzinnige pittige rode peper sneeuw!*
+3. Verdeel de dressing over de salade en garneer met cashewnoten.
 
-Deze salade is vegetarisch maar je kunt hem makkelijk aanvullen met garnalen of kip (koud). Lekker bij noodles of een stukje zalm.
+## 💡 Tips & Variaties
+
+- **Tip:** Rasp eens een bevroren peper over je gerecht. Waanzinnige pittige rode peper sneeuw!
+- Deze salade is vegetarisch maar je kunt hem makkelijk aanvullen met garnalen of kip (koud)
+- Lekker bij noodles of een stukje zalm
+
+## 🗒️ Maaltijdlog
+
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
+| | | |
+
+---
+
+*Bron: thaise salade met mango en avocado.pdf*  
+*Toegevoegd: 2026-02-09*
