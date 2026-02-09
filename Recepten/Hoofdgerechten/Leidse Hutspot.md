@@ -1,23 +1,61 @@
+---
+title: "Leidse Hutspot"
+category: "Hoofdgerecht"
+cuisine: "Nederlands"
+difficulty: "Makkelijk"
+time: "45 minuten"
+portions: "4 personen"
+source: ""
+author: ""
+dietary:
+  - "optioneel vlees"
+tags:
+  - "#recept/hoofdgerecht"
+  - "#stamppot"
+  - "#nederlands"
+  - "#winter"
+last_made: null
+rating: null
+---
+
 # Leidse Hutspot
 
-## Ingrediënten
+> Een traditionele Nederlandse stamppot met wortel, pastinaak en witte bonen. Een stevig wintergerecht met optioneel runderklapstuk.
 
-- 500 gr witte bonen
-- 1,5 kg winterwortel
-- 700 gr pastinaken
-- 500 gr uien
-- Gemalen peper
-- 500 gr runderklapstuk (optioneel)
-- Zout
-- Laurierblad
-- Foelie
+## 🥘 Ingrediënten
 
-## Bereiding
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Witte bonen | 500 gr | Gedroogd of uit blik |
+| Winterwortel | 1,5 kg | In plakjes/blokjes |
+| Pastinaak | 700 gr | In plakjes/blokjes |
+| Uien | 500 gr | |
+| Runderklapstuk | 500 gr | Optioneel |
+| Laurierblad | 1-2 blaadjes | Voor het vlees |
+| Foelie | 1 stukje | Voor het vlees |
+| Zout | Naar smaak | |
+| Gemalen peper | Naar smaak | |
 
-Als je gedroogde bonen koopt, lees je de bereiding op het pak.
+## 👨‍🍳 Bereiding
 
-Snijd alle groente in plakjes/blokjes. Kook deze klein half uur/20 minuten tot de wortelen zacht zijn.
+1. Als je gedroogde bonen gebruikt, volg dan eerst de bereiding op het pak.
+2. Snijd alle groente in plakjes/blokjes.
+3. Kook de groente 20-30 minuten tot de wortelen zacht zijn.
+4. **Als je klapstuk gebruikt:** Leg het vlees het laatste kwartier bovenop de groente, zodat de smaak in de stamppot trekt. Je kunt ook gehakt gebruiken met een extra stuk suddervlees. Gebruik laurier en foelie voor het vlees.
+5. **Als je bonen uit blik/pot hebt:** Doe ze de laatste 10 minuten in de pan.
+6. Stamp alles fijn en serveer.
 
-Als je klapstuk hebt, kun je dat er het laatste kwartier bovenop leggen, zodat de smaak in de stamppot trekt. Je kunt ook gehakt gebruiken, met een extra stuk suddervlees. Laurier en foelie zijn voor het vlees!
+## 💡 Tips & Variaties
 
-Als je bonen uit een blik/pot hebt, doe je die de laatste 10 min in de pan en dan stampen.
+- Gebruik gehakt in plaats van klapstuk voor een snellere versie
+- Lekker met mosterd erbij
+
+## 🗒️ Maaltijdlog
+
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
+| | | |
+
+---
+
+*Toegevoegd: 2026-02-09*

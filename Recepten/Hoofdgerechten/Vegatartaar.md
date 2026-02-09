@@ -1,33 +1,73 @@
+---
+title: "Vegatartaar"
+category: "Hoofdgerecht"
+cuisine: "Frans/Modern"
+difficulty: "Gemiddeld"
+time: "60 minuten"
+portions: "4 personen"
+source: ""
+author: ""
+dietary:
+  - "vegetarisch"
+tags:
+  - "#recept/hoofdgerecht"
+  - "#vegetarisch"
+  - "#aubergine"
+  - "#biet"
+last_made: null
+rating: null
+---
+
 # Vegatartaar
 
-Voor 4 personen
+> Een vegetarische variant op steak tartare, gemaakt met geroosterde aubergine, biet en kidneybonen. Perfect als voorgerecht of licht hoofdgerecht.
 
-## Ingrediënten
+## 🥘 Ingrediënten
 
-- 2 aubergines
-- 1 rauwe rode biet
-- 1 blikje kidneybonen (netto: 125 g)
-- 1 flinke sjalot
-- 1 eetl kappertjes
-- 1 eetl augurken
-- 1 eetl gehakte peterselie
-- 1 eetl tomatenketchup
-- 1 eetl mosterd
-- Tabasco
-- 1 theel gerookt paprikapoeder (mild/zoet)
-- Zout & peper uit de molen
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Aubergines | 2 stuks | |
+| Rode biet | 1 stuk | Rauw, ongeschilde |
+| Kidneybonen | 125 gr | Netto, uit blik |
+| Sjalot | 1 stuk | Flinke |
+| Kappertjes | 1 el | |
+| Augurken | 1 el | Fijngesneden |
+| Peterselie | 1 el | Gehakt |
+| Tomatenketchup | 1 el | |
+| Mosterd | 1 el | |
+| Gerookt paprikapoeder | 1 tl | Mild/zoet |
+| Tabasco | Naar smaak | |
+| Zout | Naar smaak | |
+| Peper | Naar smaak | Versgemalen |
 
 ### Garnering
-- Augurk, kappertjes, sjalotje, kerstomaatjes, toast met boter
 
-## Bereiding
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Augurk | Naar smaak | Gewaaierd |
+| Kappertjes | Naar smaak | Losse |
+| Sjalot | 1 stuk | Ringetjes |
+| Kerstomaatjes | Naar smaak | Halve |
+| Toast met boter | 4 stuks | |
 
-Prik de aubergines rondom in met een vork en leg samen met de ongeschilde biet 45 minuten in een hete oven (220°C). Laat helemaal afkoelen.
+## 👨‍🍳 Bereiding
 
-Snijd de aubergines in de lengte doormidden, schep het zachte vruchtvlees eruit en laat in een zeef goed uitlekken. Schil de biet, hak het vruchtvlees heel fijn.
+1. Prik de aubergines rondom in met een vork en leg samen met de ongeschilde biet 45 minuten in een hete oven (220°C). Laat helemaal afkoelen.
+2. Snijd de aubergines in de lengte doormidden, schep het zachte vruchtvlees eruit en laat in een zeef goed uitlekken.
+3. Schil de biet en hak het vruchtvlees heel fijn.
+4. Prak met een vork de uitgelekte kidneybonen en aubergine fijn in een kom. Voeg biet, ketchup, mosterd en paprikapoeder toe.
+5. Snipper sjalot, augurk, kappertjes en peterselie fijn en doe erbij.
+6. Breng pittig op smaak met zout, peper en tabasco.
+7. Verdeel met behulp van 4 kookringen over 4 borden en stamp aan.
+8. Garneer met kappertjes, een gewaaierd augurkje, half kerstomaatje en sjalottenringetje.
+9. Serveer met toast met boter.
 
-Prak met een vork de uitgelekte kidneybonen en aubergine fijn in een kom. Voeg biet, ketchup, mosterd en paprikapoeder toe.
+## 🗒️ Maaltijdlog
 
-Snipper sjalot, augurk, kappertjes en peterselie fijn en doe erbij. Breng pittig op smaak met zout, peper en tabasco.
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
+| | | |
 
-Verdeel met behulp van 4 kookringen over 4 borden en stamp aan. Garneer met wat losse kappertjes, een gewaaierd augurkje, half kerstomaatje en sjalottenringetje. Serveer met toast met boter.
+---
+
+*Toegevoegd: 2026-02-09*

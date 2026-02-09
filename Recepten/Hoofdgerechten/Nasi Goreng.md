@@ -1,56 +1,92 @@
+---
+title: "Nasi Goreng"
+category: "Hoofdgerecht"
+cuisine: "Indonesisch"
+difficulty: "Gemiddeld"
+time: "35 minuten"
+portions: "2 personen"
+source: ""
+author: ""
+dietary:
+  - "vegan"
+  - "glutenvrij"
+  - "notenvrij"
+tags:
+  - "#recept/hoofdgerecht"
+  - "#indonesisch"
+  - "#nasi"
+  - "#tofu"
+  - "#vegan"
+last_made: null
+rating: null
+---
+
 # Nasi Goreng
 
-**Voor 2 personen**
+> Een heerlijke en voedzame vegan variant op de bekende nasi goreng. Met gekruide tofu, extra veel groente en een kruidige saus.
 
-Met maar een paar ingrediënten zet je in een handomdraai een heerlijke en voedzame variant op de bekende nasi goreng op tafel. Vervang de gebruikelijke kip door gekruide tofu, saté door een kruidige dressing en gebruik extra veel groente. Je gasten zullen niet doorhebben dat ze vegan eten en ik durf ook nog eens te beweren dat ze deze variant waarschijnlijk nog lekkerder gaan vinden ook!
-
-**Bereidingstijd 15 minuten – Baktijd 20 minuten**
-
-## Ingrediënten
+## 🥘 Ingrediënten
 
 ### Saus
-- 2 teentjes knoflook
-- 1 rode peper
-- stuk gemberwortel van 2 cm bij 2 cm
-- 3 el sojasaus
-- 2 el kokosbloesem suiker
-- ½ tl currypasta
+
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Knoflook | 2 teentjes | |
+| Rode peper | 1 stuk | |
+| Gemberwortel | 2x2 cm | |
+| Sojasaus | 3 el | |
+| Kokosbloesemsuiker | 2 el | |
+| Currypasta | ½ tl | |
 
 ### Tofu
-- stuk gemberwortel van 1 cm bij 1 cm
-- 1 tl sesamolie
-- 400 g tofu
+
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Gemberwortel | 1x1 cm | |
+| Sesamolie | 1 tl | |
+| Tofu | 400 gr | |
 
 ### Nasi goreng
-- 150 g rijst
-- 3 uien
-- 50 g rode ui
-- 1 rode paprika
-- 1 groene paprika
-- 100 g champignons
-- 100 g broccoli
 
-### Tools
-- keukenmachine of blender
-- oven
-- bakpapier
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Rijst | 150 gr | |
+| Uien | 3 stuks | |
+| Rode ui | 50 gr | |
+| Rode paprika | 1 stuk | |
+| Groene paprika | 1 stuk | |
+| Champignons | 100 gr | |
+| Broccoli | 100 gr | |
 
-## Bereidingswijze
+## 👨‍🍳 Bereiding
 
 ### Saus
-1. Pel de knoflook. Doe de knoflook samen met de andere ingrediënten voor de saus in je keukenmachine of blender en mix.
+
+1. Pel de knoflook. Doe de knoflook samen met de andere ingrediënten voor de saus in een keukenmachine of blender en mix tot een gladde saus.
 
 ### Tofu
-2. Verwarm je oven voor tot 220 °C en bekleed een bakplaat met bakpapier.
-3. Pers de gember en roer het gembersap door de sesamolie. ...
+
+2. Verwarm de oven voor tot 220°C en bekleed een bakplaat met bakpapier.
+3. Pers de gember en roer het gembersap door de sesamolie. Marineer de tofu hiermee en bak in de oven.
 
 ### Nasi goreng
+
 4. Kook de rijst volgens de aanwijzingen op de verpakking.
 5. Snijd de ui, paprika's en champignons in stukken en de broccoli in roosjes.
 6. Roerbak alle groenten in een wok of grote pan.
 7. Voeg de gekookte rijst en tofu toe samen met de saus en bak nog even mee.
 
-## Tags
-- vegan
-- glutenvrij
-- notenvrij
+## 💡 Tips & Variaties
+
+- Serveer met satésaus voor een traditionele touch
+- Lekker met gebakken uitjes als garnering
+
+## 🗒️ Maaltijdlog
+
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
+| | | |
+
+---
+
+*Toegevoegd: 2026-02-09*
