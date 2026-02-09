@@ -1,60 +1,116 @@
+---
+title: "Kokos Dal"
+category: "Hoofdgerecht"
+cuisine: "Indisch"
+difficulty: "Gemiddeld"
+time: "1 uur 30 minuten"
+portions: "4-6 personen"
+source: ""
+author: ""
+dietary:
+  - "vegetarisch"
+  - "vegan"
+tags:
+  - "#recept/hoofdgerecht"
+  - "#keuken/indisch"
+  - "#dieet/vegan"
+  - "#dieet/vegetarisch"
+  - "#ingredient/linzen"
+  - "#ingredient/kokos"
+last_made: null
+rating: null
+---
+
 # Kokos Dal
 
-## Ingrediënten (in volgorde van bereiding)
-- 2 middelgrote rode uien, in blokjes gesneden
-- 2 el verse gember, fijngehakt
-- 2 el verse knoflook, fijngehakt (ongeveer 6-8 teentjes)
+> Een romige, kruidige linzenstoofpot met kokosmelk. Comfort food met diepe Indiase smaken.
+
+## 🥘 Ingrediënten
+
+### Basis
+
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Rode uien | 2 middelgrote | In blokjes gesneden |
+| Verse gember | 2 el | Fijngehakt |
+| Verse knoflook | 2 el | Fijngehakt (ongeveer 6-8 teentjes) |
 
 ### Specerijenmix
-- 1 el koriander
-- 1 el komijn
-- 1 tl kurkuma
-- 1 el kerriepoeder
-- ½ tl kaneel
-- ¾ tl kardemom
-- 1/2 tl zout
-- 4 laurierblaadjes
+
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Koriander | 1 el |  |
+| Komijn | 1 el |  |
+| Kurkuma | 1 tl |  |
+| Kerriepoeder | 1 el |  |
+| Kaneel | ½ tl |  |
+| Kardemom | ¾ tl |  |
+| Zout | ½ tl |  |
+| Laurierblaadjes | 4 stuks |  |
 
 ### Overige ingrediënten
-- 500 g gedroogde rode linzen, goed gespoeld
-- 4 grote tomaten, in blokjes gesneden
-- 2 blikken van 400 ml kokosmelk
-- 1 bouillonblokje, opgelost in 100 ml water
-- 100-150 ml extra water om de consistentie dun te houden
-- Sap van één limoen
+
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Rode linzen (gedroogd) | 500 g | Goed gespoeld |
+| Tomaten | 4 grote | In blokjes gesneden |
+| Kokosmelk | 2 blikken | 400 ml per blik |
+| Bouillonblokje | 1 stuk | Opgelost in 100 ml water |
+| Water | 100-150 ml | Voor consistentie |
+| Limoen | 1 stuk | Sap |
 
 ### Temperen
-- 2 el olie
-- 2 gesneden knoflookteentjes
-- 1 tl korianderzaad
-- 1 tl komijnzaad
-- Een paar hele peperkorrels (stamp de hele specerijen fijn in een vijzel)
-- 4 kerrieblaadjes
+
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Olie | 2 el |  |
+| Knoflook | 2 teentjes | Gesneden |
+| Korianderzaad | 1 tl |  |
+| Komijnzaad | 1 tl |  |
+| Peperkorrels | paar | Heel, stampen in vijzel |
+| Kerrieblaadjes | 4 stuks |  |
 
 ### Om te serveren
-- Verse koriander
-- Yoghurt
-- Limoensap
-- Verse chilipeper
-- Nigellazaad
-- Naan of toast
 
-## Bereiding
-1. Fruit de uien op een laag/medium vuur met een snufje zout gedurende 12 minuten, voortdurend roerend. Dit is erg belangrijk, want het verzacht de smaak van de curry.
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Verse koriander |  |  |
+| Yoghurt |  | (optioneel voor vegan) |
+| Limoensap |  |  |
+| Verse chilipeper |  |  |
+| Nigellazaad |  |  |
+| Naan of toast |  |  |
 
-2. Voeg de verse knoflook en gember toe, bak nog 5 minuten. Voeg de specerijenmix en ½ tl zout toe, bak nog 3-4 minuten tot het mengsel begint te plakken, maar niet verbrandt.
+## 👨‍🍳 Bereiding
 
-3. Spoel de rode linzen af en voeg ze toe, breek ze met een houten lepel en meng ze goed met de currybasis.
+1. Fruit de uien op laag/medium vuur met een snufje zout gedurende 12 minuten, voortdurend roerend. Dit verzacht de smaak van de curry.
 
-4. Voeg vervolgens de in blokjes gesneden tomaten toe en meng goed.
+2. Voeg de verse knoflook en gember toe, bak nog 5 minuten. Voeg de specerijenmix en ½ tl zout toe, bak nog 3-4 minuten tot het mengsel begint te plakken.
+
+3. Spoel de rode linzen af en voeg ze toe, breek ze met een houten lepel en meng goed met de currybasis.
+
+4. Voeg de in blokjes gesneden tomaten toe en meng goed.
 
 5. Voeg het opgeloste bouillonblokje toe, gevolgd door beide blikken kokosmelk, roer en meng alles heel goed.
 
-6. Proef en breng op smaak met zout en peper indien nodig, voeg meer water toe om de gewenste consistentie te bereiken.
+6. Proef en breng op smaak met zout en peper, voeg meer water toe om de gewenste consistentie te bereiken.
 
-7. (Optioneel) Voeg "edelgistvlokken" (nooch) toe.
+7. (Optioneel) Voeg "edelgistvlokken" (nooch) toe voor extra umami.
 
-8. Meng opnieuw en breng de pan aan de kook en laat vervolgens sudderen, dek af en laat ongeveer 1 uur langzaam koken. Je moet af en toe roeren om ervoor te zorgen dat het mengsel niet aanbrandt. Blijf proeven en op smaak brengen zoals gewenst.
+8. Breng aan de kook en laat vervolgens sudderen, dek af en laat ongeveer 1 uur langzaam koken. Roer af en toe om aanbranden te voorkomen.
 
-## Tags
-#indiase-keuken #vegetarisch #linzen #curry #hoofdgerecht
+## 💡 Tips & Variaties
+
+- Serveer met naan, rijst of toast
+- Garneer met verse koriander en nigellazaad
+- Voeg een scheut yoghurt toe voor extra romigheid (niet vegan)
+
+## 🗒️ Maaltijdlog
+
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
+| | | |
+
+---
+
+*Toegevoegd: 2026-02-09*

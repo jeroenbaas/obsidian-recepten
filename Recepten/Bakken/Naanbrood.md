@@ -1,43 +1,74 @@
-# Naanbrood Zelf Maken
+---
+title: "Naanbrood"
+category: "Bakken"
+cuisine: "Indisch"
+difficulty: "Gemiddeld"
+time: "3 uur (incl. rijzen)"
+portions: "8 broodjes"
+source: "lekkeretenmetlinda.nl"
+author: ""
+dietary:
+  - "vegetarisch"
+tags:
+  - "#recept/bakken"
+  - "#keuken/indisch"
+  - "#type/brood"
+  - "#bijgerecht"
+last_made: null
+rating: null
+---
 
-Voor 8 broodjes
+# Naanbrood
 
-## Ingrediënten
+> Zacht, luchtig platbrood met knoflook en koriander. Heerlijk bij curry of als snack.
 
-- 2 eetlepels (kokosbloemse) suiker
-- ½ zakje gist
-- 60 ml warm water
-- 500 gram speltbloem + extra
-- 1 theelepel bakpoeder
-- 2 theelepels zout
-- 3 eetlepels melk
-- 250 ml Griekse yoghurt
-- 2 eetlepels olie + extra om kom in te vetten
-- 4 teentjes knoflook, zeer fijngehakt
-- 3 eetlepels fijn gesneden koriander
-- 3 eetlepels gesmolten boter
+## 🥘 Ingrediënten
 
-## Bereiding
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| (Kokosbloesem) suiker | 2 el |  |
+| Gist | ½ zakje |  |
+| Warm water | 60 ml |  |
+| Speltbloem | 500 g | + extra voor uitrollen |
+| Bakpoeder | 1 tl |  |
+| Zout | 2 tl |  |
+| Melk | 3 el |  |
+| Griekse yoghurt | 250 ml |  |
+| Olie | 2 el | + extra om kom in te vetten |
+| Knoflook | 4 teentjes | Zeer fijngehakt |
+| Koriander | 3 el | Fijn gesneden |
+| Gesmolten boter | 3 el | Voor bestrijken |
 
-Doe de gist en het suiker met het warme water in een kom. Laat dit zo'n 5 tot 10 minuten staan of totdat het mengsel begint te schuimen.
+## 👨‍🍳 Bereiding
 
-Zeef de bloem en bakpoeder in een grote kom en voeg ook het zout toe. Voeg vervolgens alle natte ingrediënten toe: het gistmengsel, melk, yoghurt en de olie. Vervolgens de helft van de knoflook erbij. Kneed het vervolgens in 8–10 minuten tot een soepel elastisch deeg op een met bloem bestoven aanrecht.
+1. Doe de gist en suiker met warm water in een kom. Laat 5-10 minuten staan tot het schuimt.
 
-Leg de deegbal in een met olie ingevette kom. Laat de deegbal rond gaan in de kom, zodat hij rondom ingevet is. Dit zorgt ervoor dat het deeg na rijzen niet aan de kom blijft plakken. Dek af met plasticfolie en laat het minimaal 2 uur rijzen.
+2. Zeef de bloem en bakpoeder in een grote kom, voeg zout toe. Voeg het gistmengsel, melk, yoghurt, olie en de helft van de knoflook toe. Kneed 8-10 minuten tot een soepel elastisch deeg.
 
-Duw de lucht uit het deeg en kneed nog even door. Verdeel in 8 gelijke stukken.
+3. Leg de deegbal in een met olie ingevette kom. Laat rondgaan zodat hij rondom ingevet is. Dek af met plasticfolie en laat minimaal 2 uur rijzen.
 
-Verwarm de oven op de hoogste stand met een bakplaat erin (bijv. 250°C). Heb je een pizzasteen? Leg die dan in de oven.
+4. Duw de lucht uit het deeg en kneed nog even door. Verdeel in 8 gelijke stukken.
 
-Pak een bolletje deeg en rol uit tot een ovaal plat brood op een met bloem bestoven aanrecht. Bestrijk het brood met de gesmolten boter en strooi er wat fijngehakte knoflook en koriander over.
+5. Verwarm de oven op de hoogste stand met een bakplaat erin (bijv. 250°C). Gebruik eventueel een pizzasteen.
 
-Plaats 2 broden op een stuk bakpapier en leg op de loeihete bakplaat en bak de broden in 5 minuten af totdat het goudbruin en opgebold is. De duur van het afbakken kan verschillen, bij sommige ovens is het brood al binnen 2-4 minuten klaar. Houd dit bij de eerste bakgang goed in de gaten.
+6. Rol een bolletje deeg uit tot een ovaal plat brood op een met bloem bestoven aanrecht. Bestrijk met gesmolten boter en strooi er wat knoflook en koriander over.
 
-Herhaal dit met de rest van het deeg.
+7. Plaats 2 broden op een stuk bakpapier en leg op de loeihete bakplaat. Bak 2-5 minuten tot goudbruin en opgebold.
 
-## Tips
+8. Herhaal met de rest van het deeg.
 
-- Je kan het deeg ook invriezen voor een volgende keer. Dit geldt natuurlijk ook voor het afgebakken naan.
-- Je kan ook komijn over het brood strooien in plaats van knoflook en koriander.
+## 💡 Tips & Variaties
 
-*Bron: lekkeretenmetlinda.nl*
+- Je kan het deeg ook invriezen voor een volgende keer
+- Je kan ook komijn over het brood strooien in plaats van knoflook en koriander
+- De baktijd varieert per oven; houd de eerste bakgang goed in de gaten
+
+## 🗒️ Maaltijdlog
+
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
+| | | |
+
+---
+
+*Toegevoegd: 2026-02-09*

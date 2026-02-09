@@ -1,41 +1,90 @@
+---
+title: "Vegetarische Enchiladas"
+category: "Hoofdgerecht"
+cuisine: "Mexicaans"
+difficulty: "Gemiddeld"
+time: "45 minuten"
+portions: "11 enchiladas"
+source: ""
+author: ""
+dietary:
+  - "vegetarisch"
+tags:
+  - "#recept/hoofdgerecht"
+  - "#keuken/mexicaans"
+  - "#dieet/vegetarisch"
+  - "#type/enchiladas"
+  - "#ingredient/jackfruit"
+  - "#ingredient/zwarte-bonen"
+last_made: null
+rating: null
+---
+
 # Vegetarische Enchiladas
 
-Voor 11 enchiladas
+> Pittige, smaakvolle enchiladas gevuld met champignons, jackfruit en zwarte bonen. Een feestelijk Mexicaans gerecht!
 
-## Ingrediënten
+## 🥘 Ingrediënten
 
-- Ui
-- Knoflook
-- 500g champignons
-- 1×400g + 200g zwarte bonen (groot en klein blik), afgespoeld
-- 1 blik jackfruit, afgespoeld en losgemaakt met de vork
-- 1 blik tomatenblokjes
-- 2 paprika's
-- Komijnpoeder
-- Gemalen koriander
-- Cayennepeper
-- Paprikapoeder
-- Geraspte kaas
-- 11 wraps
-- Avocado (garnering)
-- Crème fraîche
+### Vulling
 
-### Erbij
-- Komkommer
-- Extra paprika
-- Tomaatjes
-- Limoen
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Ui | 1 stuk |  |
+| Knoflook | 2 teentjes |  |
+| Champignons | 500 g |  |
+| Zwarte bonen | 400 g + 200 g | Groot en klein blik, afgespoeld |
+| Jackfruit | 1 blik | Afgespoeld en losgemaakt met vork |
+| Tomatenblokjes | 1 blik |  |
+| Paprika's | 2 stuks |  |
+| Komijnpoeder |  | Naar smaak |
+| Gemalen koriander |  | Naar smaak |
+| Cayennepeper |  | Naar smaak |
+| Paprikapoeder |  | Naar smaak |
+| Wraps | 11 stuks |  |
+| Geraspte kaas |  | Voor bovenop |
+| Crème fraîche |  | Om wraps dicht te plakken |
 
-## Bereiding
+### Garnering
 
-Ui en knoflook fruiten; verdeel dan over 2 pannen:
-- In 1 pan: tomatenblokjes toevoegen met komijnpoeder
-- In een braadpan: champignons bakken op middelhoog vuur, kruiden toevoegen (komijn, koriander, cayennepeper, paprikapoeder), jackfruit en zwarte bonen toevoegen, 5 minuten mee verwarmen
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Avocado |  | Gesneden |
+| Komkommer |  |  |
+| Extra paprika |  |  |
+| Tomaatjes |  |  |
+| Limoen |  |  |
 
-### Enchiladas maken
+## 👨‍🍳 Bereiding
 
-Vul wrap met een schep bonen-vulling. Rol op en dicht met een klein beetje crème fraîche. Plaats de wraps in een ingevette ovenschaal.
+1. Fruit ui en knoflook aan.
 
-Dek de wraps af met de tomatensaus en bestrooi met kaas. 
+2. Verdeel over 2 pannen:
+   - In 1 pan: tomatenblokjes toevoegen met komijnpoeder
+   - In een braadpan: champignons bakken op middelhoog vuur, kruiden toevoegen (komijn, koriander, cayennepeper, paprikapoeder), jackfruit en zwarte bonen toevoegen, 5 minuten mee verwarmen
 
-20 minuten in de oven, niet laten verbranden.
+3. Vul elke wrap met een schep bonen-vulling. Rol op en dicht met een klein beetje crème fraîche.
+
+4. Plaats de wraps in een ingevette ovenschaal.
+
+5. Dek de wraps af met de tomatensaus en bestrooi met kaas.
+
+6. Bak 20 minuten in de oven, niet laten verbranden.
+
+7. Garneer met avocado en eventueel andere groenten.
+
+## 💡 Tips & Variaties
+
+- Pas de hoeveelheid kruiden aan naar smaak voor meer of minder pit
+- Lekker met zure room of guacamole
+- Maak extra saus voor over de rijst
+
+## 🗒️ Maaltijdlog
+
+| Datum | Gelegenheid | Opmerking |
+|-------|-------------|-----------|
+| | | |
+
+---
+
+*Toegevoegd: 2026-02-09*
