@@ -19,8 +19,6 @@ rating: null
 **Bereidingstijd:** ~30 minuten  
 **Type:** Hoofdgerecht
 
-Verwijzing naar restaurant "Dr Shakshuka" in Jaffa.
-
 ## 🥘 Ingrediënten
 
 | Ingrediënt | Hoeveelheid | Opmerking |
