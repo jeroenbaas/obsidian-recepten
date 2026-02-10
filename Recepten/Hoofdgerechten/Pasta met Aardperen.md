@@ -26,7 +26,7 @@ Aardperen (topinambour) hebben een nootachtige smaak en lijken wat op artisjokha
 
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Aardperen | 300-400 g | *meer dan origineel* |
+| Aardperen | ~900 g (bijna 1 kg) | *voor 4-5 personen* |
 | Rode ui | 1 | |
 | Knoflook | 2 tenen | |
 | Zongedroogde tomaten | 8 | |
@@ -39,15 +39,16 @@ Aardperen (topinambour) hebben een nootachtige smaak en lijken wat op artisjokha
 ## 👨‍🍳 Bereiding
 
 1. Was de aardperen grondig (door de grillige vorm zit er overal klei/aarde).
-2. Kook de pasta volgens de aanwijzingen op het pak.
-3. Schil de aardperen en snijd in dunne plakjes.
-4. Snijd de ui in ringen.
-5. Fruit de ui in olijfolie en voeg de plakjes aardpeer toe.
-6. Snijd de knoflook fijn en voeg toe.
-7. **Rooster de walnoten in een droge koekenpan en zout ze.**
-8. Hak de geroosterde walnoten grof en snijd de zongedroogde tomaten in reepjes.
-9. Voeg de walnoten, tomaten en gare pasta toe aan de pan.
-10. Roer de crème fraîche erdoor en knip de peterselie erboven fijn.
+2. **Kook de aardperen heel kort voor** (bijna gaar).
+3. Kook de pasta volgens de aanwijzingen op het pak.
+4. Schil de aardperen en snijd in dunne plakjes.
+5. Snijd de ui in ringen.
+6. Fruit de ui in olijfolie en voeg de plakjes aardpeer toe.
+7. Snijd de knoflook fijn en voeg toe.
+8. **Rooster de walnoten in een droge koekenpan en zout ze.**
+9. Hak de geroosterde walnoten grof en snijd de zongedroogde tomaten in reepjes.
+10. Voeg de walnoten, tomaten en gare pasta toe aan de pan.
+11. Roer de crème fraîche erdoor en knip de peterselie erboven fijn.
 
 ## 💡 Tips & Variaties
 
