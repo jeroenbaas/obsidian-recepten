@@ -4,7 +4,7 @@ category: "Hoofdgerechten"
 cuisine: "Indonesisch / Aziatisch"
 difficulty: "Makkelijk"
 time: "30 min"
-portions: 2
+portions: 4
 source: "Uit Paulines Keuken"
 author: "Pauline"
 dietary: ["vegetarisch", "glutenvrij"]
@@ -15,8 +15,9 @@ rating: null
 
 # Bloemkoolrijst nasi
 
-**Personen:** 2  
+**Personen:** 4  
 **Bereidingstijd:** ~30 minuten  
+**Opmerking:** Originele hoeveelheden waren te krap voor 4 personen, deze zijn aangepast  
 **Type:** Hoofdgerecht
 
 Een low-carb versie van klassieke nasi met bloemkoolrijst in plaats van zilvervliesrijst. Lekker licht, gezond en je komt meteen aan je groente quota!
@@ -25,17 +26,17 @@ Een low-carb versie van klassieke nasi met bloemkoolrijst in plaats van zilvervl
 
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Bloemkoolrijst | 200 g | vers of diepvries |
-| Nasigroenten | 100 g | |
-| Lente-ui | 1 | |
-| Rode ui | 1/2 | of 1 kleine |
-| Knoflook | 1 teen | |
-| Gember | 1/2 cm | |
-| Eieren | 2 | gebakken |
-| Pindasaus | 75 ml | [recept](https://uitpaulineskeuken.nl/recept/snelle-satesaus) |
-| Kokosrasp | 2 el | |
-| Kurkuma | 1/2 el | |
-| Komijnpoeder | 1/2 tl | |
+| Bloemkoolrijst | 600 g | vers of diepvries (origineel 400g was te weinig) |
+| Nasigroenten | 300 g | (origineel 200g was te weinig) |
+| Lente-ui | 3 | |
+| Rode ui | 1 | grote, of 2 kleine |
+| Knoflook | 3 tenen | |
+| Gember | 1,5 cm | |
+| Eieren | 4 | gebakken |
+| Pindasaus | 200 ml | [recept](https://uitpaulineskeuken.nl/recept/snelle-satesaus) |
+| Kokosrasp | 6 el | |
+| Kurkuma | 1,5 el | |
+| Komijnpoeder | 1,5 tl | |
 | Peper | | naar smaak |
 | Zout | | naar smaak |
 | Zonnebloemolie | | voor bakken |
@@ -54,7 +55,7 @@ Een low-carb versie van klassieke nasi met bloemkoolrijst in plaats van zilvervl
 
 6. Breng de nasi op smaak met peper en zout.
 
-7. Bak ondertussen 2 eitjes in een koekenpan.
+7. Bak ondertussen 4 eitjes in een koekenpan.
 
 8. Warm de satesaus volgens de gebruiksaanwijzing op.
 
