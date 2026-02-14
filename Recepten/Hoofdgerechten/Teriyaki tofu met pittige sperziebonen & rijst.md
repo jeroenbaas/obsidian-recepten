@@ -30,7 +30,7 @@ rating: null
 
 ## 💡 Belangrijke notities
 
-- **Maizena:** Maak eerst een papje van de maizena voordat je het toevoegt!
+- **Maizena in de saus:** Maak eerst een papje van de maizena voor de saus voordat je het toevoegt! (Voor de tofu zelf geen papje maken)
 
 ## 🗒️ Maaltijdlog
 
