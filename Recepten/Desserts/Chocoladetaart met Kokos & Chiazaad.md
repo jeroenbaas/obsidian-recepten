@@ -5,7 +5,7 @@ cuisine: "Modern / Vegan"
 difficulty: "Gemiddeld"
 time: "~45 min + opstijven"
 portions: 8
-source: "Eat. Share. Live. pagina 210"
+source: "SLA kookboek pagina 210"
 author: ""
 dietary: ["vegan", "glutenvrij", "raw"]
 tags: ["#recept/dessert", "#recept/chocolade", "#recept/kokos", "#recept/chia", "#recept/vegan", "#recept/glutenvrij"]
@@ -103,5 +103,5 @@ Een rijke, romige chocoladetaart met een knapperige notenbodem en een zachte vul
 
 ---
 
-*Bron: Eat. Share. Live. pagina 210 (gedeeld in WhatsApp groep)*  
+*Bron: SLA kookboek pagina 210 (gedeeld in WhatsApp groep)*  
 *Toegevoegd: 2026-02-16*
