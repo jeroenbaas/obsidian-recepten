@@ -96,6 +96,7 @@ rating: null
 |-------|----------|--------------|--------|
 | 2026-02-14 | 4 | Maizena papje maken voor saus | |
 | 2026-02-15 | 4 | Maizena papje maken voor saus | |
+| 2026-02-20 | | Maizena papje maken voor saus | |
 
 ---
 
