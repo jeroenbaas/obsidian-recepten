@@ -21,58 +21,73 @@ rating: null
 **Type:** Hoofdgerecht  
 **Glutenvrij:** Mogelijk
 
+## 🛠️ Tools
+
+- Bakplaat
+- Bakpapier
+- 3 pannen
+
 ## 🥘 Ingrediënten
 
-### Tofu
+### Teriyaki tofu
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Tofu | 400 g | |
-| Maizena | | voor paneren |
+| Stevige tofu | 500 g | uitgelekt en in blokjes |
+| Maïzena | 5 el | |
+| Olijfolie | 2 el | |
+| Groentebouillon | 50 ml | |
+| Sojasaus | 50 ml | of tamari voor glutenvrij |
+| Agavesiroop | 5 el | |
+| Gemberpoeder | ½ tl | |
+| Knoflookpoeder | 1 tl | |
+| Rijstazijn | 3 el | |
+| Peper en zout | | naar smaak |
 
-### Sperziebonen
+### Pittige boontjes + rijst
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Sperziebonen | 400 g | |
-| Knoflook | | |
+| Sperziebonen | 500 g | schoongemaakt |
+| Witte rijst | 300 g | |
+| Ketjap manis | 1 el | |
+| Sambal oelek | 1 tl | |
 
-### Teriyaki saus
+### Garnering
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Sojasaus | | |
-| Gember | | |
-| Suiker | | |
-| Maizena | | **eerst papje maken** |
-
-### Rijst
-| Ingrediënt | Hoeveelheid | Opmerking |
-|------------|-------------|-----------|
-| Rijst | | voor 4 personen |
+| Bosuien | 2 | in dunne ringen |
+| Sesamzaad | | |
 
 ## 👨‍🍳 Bereiding
 
-9 stappen:
+1. Verwarm de oven voor op 180°C en bekleed de bakplaat met bakpapier. Meng de tofu in een kom met 3 eetlepels maïzena, de olijfolie en peper en zout naar smaak. Verdeel de tofu over de bakplaat.
 
-1. Rijst koken
-2. Tofu paneren in maizena
-3. Tofu bakken
-4. Sperziebonen koken
-5. Teriyaki saus maken
-6. Tofu toevoegen aan saus
-7. Sperziebonen roerbakken met knoflook
-8. Samenvoegen
-9. Serveren met rijst
+2. Zet de bakplaat in de oven en bak de tofublokjes in 25 minuten krokant. Schep ze halverwege om.
+
+3. Kook de rijst volgens de aanwijzingen op de verpakking en zet opzij.
+
+4. Maak intussen de teriyakisaus. Zet een steelpan op middelhoog vuur en verwarm hierin de groentebouillon met de sojasaus, de agavesiroop, het gemberpoeder, het knoflookpoeder en de rijstazijn. Breng aan de kook en laat het 4-5 minuten doorkoken op een laag vuur.
+
+5. Voeg de overige maizena toe en roer goed met een garde tot de saus indikt. Haal daarna de pan van het vuur en zet opzij.
+
+6. Breng ruim water met wat zout in een pan aan de kook en kook de sperziebonen in 8 minuten gaar.
+
+7. Giet de sperziebonen af, doe ze terug in de pan en meng de ketjap manis en sambal door de sperziebonen.
+
+8. Meng de geroosterde tofu met de teriyakisaus in een kom.
+
+9. Verdeel de rijst en de pittige sperziebonen over de borden en leg er wat teriyaki tofu op. Garneer met de bosui en wat sesamzaad en serveer meteen.
 
 ## 💡 Belangrijke notities
 
-- **Maizena in de saus:** Maak eerst een papje van de maizena voordat je het toevoegt!
+- **Maizena:** 3 el voor de tofu, 2 el voor de saus (roer goed met garde!)
 
 ## 🗒️ Maaltijdlog
 
 | Datum | Personen | Aanpassingen | Rating |
 |-------|----------|--------------|--------|
-| 2026-02-14 | 4 | Maizena papje maken voor saus | |
-| 2026-02-15 | 4 | Maizena papje maken voor saus | |
-| 2026-02-20 | 4 | Maizena papje maken voor saus | |
+| 2026-02-14 | 4 | | |
+| 2026-02-15 | 4 | | |
+| 2026-02-20 | 4 | | |
 
 ---
 
