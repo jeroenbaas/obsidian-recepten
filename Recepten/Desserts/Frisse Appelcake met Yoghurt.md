@@ -96,7 +96,7 @@ Een frisse, luchtige cake met stukjes appel en yoghurt in het beslag. Perfect vo
 
 | Datum | Personen | Aanpassingen | Rating |
 |-------|----------|--------------|--------|
-| | | | |
+| 2026-02-20 | | | |
 
 ---
 
