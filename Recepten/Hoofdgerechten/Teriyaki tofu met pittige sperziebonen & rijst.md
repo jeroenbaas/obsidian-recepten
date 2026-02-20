@@ -21,78 +21,50 @@ rating: null
 **Type:** Hoofdgerecht  
 **Glutenvrij:** Mogelijk
 
-## 🛠️ Benodigdheden
-
-- Wok of hapjespan
-- Steelpan (voor saus)
-- Vergiet
-- Schaal (voor tofu)
-
 ## 🥘 Ingrediënten
 
 ### Tofu
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Tofu (stevig/vast) | 400 g | in blokjes van 2 cm |
-| Maizena | 3 el | voor paneren |
-| Zonnebloemolie | 3 el | voor bakken |
+| Tofu | 400 g | |
+| Maizena | | voor paneren |
 
 ### Sperziebonen
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Sperziebonen | 400 g | schoongemaakt, gehalveerd |
-| Knoflook | 2 tenen | fijngehakt |
-| Gember | 2 cm | geraspt |
-| Rode peper | 1 | zaadjes verwijderd, fijngesneden |
-| Sesamolie | 1 el | |
+| Sperziebonen | 400 g | |
+| Knoflook | | |
 
 ### Teriyaki saus
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Sojasaus (glutenvrij) | 4 el | |
-| Mirin | 2 el | Japanse rijstwijn |
-| Sake | 2 el | of droge witte wijn |
-| Bruine suiker | 2 el | |
-| Maizena | 1 el | **eerst papje maken** |
-| Water | 2 el | koud, voor papje |
+| Sojasaus | | |
+| Gember | | |
+| Suiker | | |
+| Maizena | | **eerst papje maken** |
 
 ### Rijst
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Rijst | 300 g | witte of volkoren |
-| Water | | volgens verpakking |
+| Rijst | | voor 4 personen |
 
-### Garnering
-| Ingrediënt | Hoeveelheid | Opmerking |
-|------------|-------------|-----------|
-| Sesamzaad | 1 el | wit of zwart, geroosterd |
-| Lente-ui | 2 | in ringetjes |
+## 👨‍🍳 Bereiding
 
-## 👨‍🍳 Bereiding (9 stappen)
+9 stappen:
 
-1. **Rijst koken:** Kook de rijst volgens de aanwijzingen op de verpakking.
-
-2. **Tofu paneren:** Dep de tofu droog met keukenpapier. Doe de maizena in een schaal en wentel de tofu erdoor tot alle blokjes bedekt zijn.
-
-3. **Tofu bakken:** Verhit de olie in een wok op middelhoog vuur. Bak de tofu in 8-10 minuten goudbruin en knapperig. Keer regelmatig. Haal uit de pan en houd warm.
-
-4. **Sperziebonen koken:** Kook de sperziebonen 5 minuten in gezouten water. Giet af en spoel koud onder stromend water.
-
-5. **Saus voorbereiden:** **Maak eerst een papje** van de maizena met 2 el koud water. Meng in een steelpan de sojasaus, mirin, sake en bruine suiker.
-
-6. **Saus koken:** Breng het sausmengsel aan de kook. Voeg het maizenapapje toe en roer tot de saus dikker wordt (1-2 minuten). Neem van het vuur.
-
-7. **Tofu marineren:** Doe de gebakken tofu in de saus en laat 5 minuten wellen zodat de smaken goed intrekken.
-
-8. **Sperziebonen roerbakken:** Verhit de sesamolie in de wok. Roerbak de sperziebonen met knoflook, gember en rode peper 3-4 minuten op hoog vuur.
-
-9. **Serveren:** Verdeel de rijst over 4 kommen. Schep de teriyaki tofu en pittige sperziebonen ernaast. Garneer met sesamzaad en lente-ui.
+1. Rijst koken
+2. Tofu paneren in maizena
+3. Tofu bakken
+4. Sperziebonen koken
+5. Teriyaki saus maken
+6. Tofu toevoegen aan saus
+7. Sperziebonen roerbakken met knoflook
+8. Samenvoegen
+9. Serveren met rijst
 
 ## 💡 Belangrijke notities
 
-- **Maizena in de saus:** Maak eerst een papje van de maizena met koud water voordat je het aan de hete saus toevoegt! Dit voorkomt klontjes. Voor de tofu zelf gebruik je droge maizena.
-- **Tofu:** De tofu is het lekkerst als hij goed knapperig gebakken is — neem de tijd hiervoor en keer regelmatig.
-- **Glutenvrij:** Gebruik glutenvrije sojasaus om het gerecht volledig glutenvrij te maken.
+- **Maizena in de saus:** Maak eerst een papje van de maizena voordat je het toevoegt!
 
 ## 🗒️ Maaltijdlog
 
@@ -105,5 +77,4 @@ rating: null
 ---
 
 *Bron: Kookboek pagina 113 (gedeeld in WhatsApp groep)*  
-*Toegevoegd: 2026-02-14*  
-*Aangepast: 2026-02-20 - details toegevoegd*
+*Toegevoegd: 2026-02-14*
