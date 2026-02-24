@@ -5,7 +5,7 @@ cuisine: "Nederlands"
 difficulty: "Makkelijk"
 time: "50 min"
 portions: 4
-source: "Kookboek"
+source: "Foodies Magazine"
 author: ""
 dietary: ["vegetarisch"]
 tags: ["#recept/stamppot", "#recept/zuurkool", "#recept/aardappel", "#recept/winter"]
@@ -27,45 +27,44 @@ Een verrassende stamppot met zoete aardappel, zuurkool en een zoetje van gebakke
 |------------|-------------|-----------|
 | Kruimige aardappels | 500 g | geschild en in stukken |
 | Zoete aardappels | 500 g | geschild en in stukken |
-| Zout en peper | | naar smaak |
 | Crème fraîche | 125 g | |
 | Boter | 25 g | |
 | Kaneelpoeder | ½ tl | |
 | Chilivlokken | 1 tl | |
-| Olie | | om te bakken |
 | Rode ui | 2 stuks | in dunne halve ringen |
 | Venkelzaad | 1 tl | |
 | Gedroogde tijm | 1 tl | |
 | Knoflookpoeder | 1 tl | |
 | Zuurkool | 400 g | uitgelekt |
 | Ongezouten notenmix | 50 g | geroosterd, grofgehakt |
+| Zout en peper | | naar smaak |
 
 ### Voor de gebakken appel
 
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Citroensap | 1 el | |
 | Rode appel | 1 stuk | klokhuis verwijderd, in partjes |
+| Citroensap | 1 el | |
 | Boter | 1 el | |
 | Honing | 1 el | |
 
 ## 👨‍🍳 Bereiding
 
-1. **Kook de aardappels:** Breng de kruimige aardappels en zoete aardappels in ruim water aan de kook. Voeg zout toe en kook in 15-20 minuten gaar.
+1. **Kook de aardappels:** Doe de kruimige aardappels in een pan met koud water en ½ tl zout en breng aan de kook. Voeg na 10 minuten de zoete aardappel toe en breng opnieuw aan de kook. Kook ca. 10 minuten verder tot alle aardappels gaar zijn. Giet de aardappels af en doe ze terug in de pan. Stamp de aardappels met de crème fraîche en de boter tot een grove puree. Breng de puree op smaak met het kaneelpoeder, de chilivlokken en zout en peper.
 
-2. **Bereid de appel:** Meng de appelpartjes met het citroensap. Bak de appel in een koekenpan met 1 el boter en 1 el honing tot ze lichtbruin en zacht zijn.
+2. **Bereid de gebakken appel:** Meng voor de gebakken appel het citroensap door de appel. Verhit de boter in een koekenpan en bak er de appel in tot hij zacht begint te worden. Schenk de honing erbij en bak de appel verder tot hij lichtbruin en gekaramelliseerd is. Haal de appel uit de pan en houd apart op een bord.
 
-3. **Fruit de ui:** Verwarm olie in een grote pan en fruit de rode ui tot ze zacht en lichtbruin zijn.
+3. **Bereid de zuurkool:** Voeg een scheutje olie toe aan de koekenpan en fruit er de rode ui ca. 5 minuten in. Voeg het venkelzaad, de tijm, het knoflookpoeder en de zuurkool toe en bak ca. 2 minuten verder. Voeg 2 el water toe, leg een deksel op de pan en laat ca. 5 minuten stoven.
 
-4. **Voeg kruiden toe:** Voeg het venkelzaad, de gedroogde tijm en het knoflookpoeder toe aan de ui. Bak kort mee tot het geurig is.
+4. **Meng en serveer:** Stamp het zuurkoolmengsel door de aardappelpuree en verwarm de stamppot op laag vuur. Serveer de stamppot met de gebakken appel en bestrooi royaal met de geroosterde noten.
 
-5. **Voeg zuurkool toe:** Schep de uitgelekte zuurkool door de uien en kruiden. Warm goed door en laat ca. 5 minuten pruttelen met een scheutje water.
+## 🍽️ Voedingswaarden
 
-6. **Rooster de noten:** Rooster de notenmix in een droge koekenpan zonder olie tot ze geurig zijn. Laat afkoelen en hak grof.
-
-7. **Stamp de aardappels:** Giet de aardappels af en stamp ze met de crème fraîche, 25 g boter, kaneelpoeder en chilivlokken tot een smeuïge stamppot. Breng op smaak met zout en peper.
-
-8. **Meng alles:** Schep de zuurkool-uienmix door de stamppot. Serveer met de gebakken appelpartjes en bestrooi met de geroosterde noten.
+Per portie:
+• **Energie:** ca. 561 kcal
+• **Eiwit:** 8 g
+• **Vet:** 29 g
+• **Koolhydraten:** 62 g
 
 ## 💡 Tips & Variaties
 
@@ -81,5 +80,5 @@ Een verrassende stamppot met zoete aardappel, zuurkool en een zoetje van gebakke
 
 ---
 
-*Bron: Kookboek*  
+*Bron: Foodies Magazine*  
 *Toegevoegd: 2025-01-20*
