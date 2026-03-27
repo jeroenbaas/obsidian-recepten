@@ -64,7 +64,7 @@ Voeg wat gekookte puy-linzen toe en je hebt genoeg voor vier personen als hoofdg
 
 | Datum | Personen | Aanpassingen | Rating |
 |-------|----------|--------------|--------|
-| | | | |
+| 2026-03-08 | | | |
 
 ---
 
