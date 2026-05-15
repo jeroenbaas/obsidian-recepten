@@ -59,6 +59,7 @@ Garneer met extra peterselie en basilicum en eet direct of op kamertemperatuur.
 
 - **Gnocchi keuze:** Shelf-stable gnocchi werken het beste, omdat ze steviger zijn en goed knapperig worden. Je kunt diepvries gnocchi gebruiken, maar wees extra voorzichtig om ze niet te veel te bewegen in de pan zodat ze niet uit elkaar vallen.
 - **Kaas:** Top met een scherpe kaas zoals Parmezaan, pecorino of ricotta salata voor een zoute kick.
+- **Pijnboompitten:** Voeg geroosterde pijnboompitten toe voor extra crunch en smaak.
 - **Timing:** Dit gerecht is het lekkerst als het direct wordt gegeten terwijl de gnocchi knapperig blijft, maar het kan tot 30 minuten staan zodat de smaken kunnen mengen. (Laat het niet te lang staan, want de gnocchi worden papperig.)
 
 ## 🗒️ Maaltijdlog
