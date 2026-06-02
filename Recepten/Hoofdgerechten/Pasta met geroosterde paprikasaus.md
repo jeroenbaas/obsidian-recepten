@@ -80,7 +80,8 @@ Een romige, geroosterde paprikasaus over pasta. Dit recept is volledig vegan, ma
 
 | Datum | Personen | Aanpassingen | Rating |
 |-------|----------|--------------|--------|
-| | | | |
+| 2026-06-03 | 4 | | |
+| 2026-06-04 | 4 | | |
 
 ---
 *Bron: Hofweb / Wauw Factory*  
