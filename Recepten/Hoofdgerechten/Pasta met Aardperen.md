@@ -1,14 +1,14 @@
 ---
 title: "Pasta met aardperen"
 category: "Hoofdgerechten"
-cuisine: "Mediterraans"
-difficulty: "Makkelijk"
+cuisine: "Italiaans"
+difficulty: "Gemiddeld"
 time: "40 min"
 portions: 4
-source: "Eten uit de volkstuin"
-author: ""
+source: "https://etenuitdevolkstuin.nl/2013/03/04/pasta-met-aardperen/"
+author: "Eten uit de volkstuin"
 dietary: ["vegetarisch"]
-tags: ["#recept/pasta", "#recept/aardperen", "#recept/walnoten", "#recept/makkelijk"]
+tags: ["#recept/pasta", "#recept/aardpeer", "#recept/herfst"]
 last_made: null
 rating: null
 ---
@@ -16,51 +16,66 @@ rating: null
 # Pasta met aardperen
 
 **Personen:** 4  
-**Voorbereiding:** 30 min  
-**Bereiding:** 10 min  
+**Bereidingstijd:** 40 minuten  
 **Type:** Hoofdgerecht
 
-Aardperen (topinambour) hebben een nootachtige smaak en lijken wat op artisjokharten. Lekker in een vega-pastasaus met walnoten en verse peterselie.
+Aardperen (topinambour) hebben een nootachtige smaak en lijken wat op artisjokharten. Lekker in een vega-pastasaus met geroosterde walnoten en verse tijm.
 
 ## 🥘 Ingrediënten
 
+### Groenten
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Aardperen | ~900 g (bijna 1 kg) | *voor 4-5 personen* |
-| Rode ui | 1 | |
-| Knoflook | 2 tenen | |
-| Zongedroogde tomaten | 8 | |
-| Walnoten | handje | *geroosterd & gezouten* |
+| Aardperen | 300-400 g | Meer dan origineel recept |
+| Rode ui | 1 stuk | In ringen |
+| Knoflook | 2 teentjes | Fijngehakt |
+
+### Pasta & Saus
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Pasta | 400 g | Naar keuze |
 | Crème fraîche | 200 g | |
-| Verse peterselie | | |
-| Pasta | 400 g | |
-| Olijfolie | | |
+| Olijfolie | scheut | Om te fruiten |
+
+### Garnering
+| Ingrediënt | Hoeveelheid | Opmerking |
+|------------|-------------|-----------|
+| Walnoten | 50-75 g | Geroosterd en gezouten |
+| Verse tijm | 1 takje | Blaadjes |
 
 ## 👨‍🍳 Bereiding
 
-1. Was de aardperen grondig (door de grillige vorm zit er overal klei/aarde).
-2. **Kook de aardperen heel kort voor** (bijna gaar).
-3. Kook de pasta volgens de aanwijzingen op het pak.
-4. Schil de aardperen en snijd in dunne plakjes.
-5. Snijd de ui in ringen.
-6. Fruit de ui in olijfolie en voeg de plakjes aardpeer toe.
-7. Snijd de knoflook fijn en voeg toe.
-8. **Rooster de walnoten in een droge koekenpan en zout ze.**
-9. Hak de geroosterde walnoten grof en snijd de zongedroogde tomaten in reepjes.
-10. Voeg de walnoten, tomaten en gare pasta toe aan de pan.
-11. Roer de crème fraîche erdoor en knip de peterselie erboven fijn.
+1. Was de aardperen goed - door de grillige vorm zit overal klei of aarde.
+
+2. Kook de pasta volgens de aanwijzingen op het pak.
+
+3. Schil de aardperen en snijd in dunne plakjes.
+
+4. Fruit de uiringen in olijfolie en voeg de plakjes aardpeer toe.
+
+5. Snijd de knoflook fijn en voeg bij de ui en aardpeer. Bak mee tot de aardpeer gaar is.
+
+6. Rooster de walnoten in een droge koekenpan tot geurig. Bestrooi met zout.
+
+7. Doe de crème fraîche bij de ui en aardperen en roer even door.
+
+8. Voeg de gekookte pasta toe en schep om.
+
+9. Verdeel over de borden en strooi de geroosterde walnoten en blaadjes tijm erover.
 
 ## 💡 Tips & Variaties
 
-- **Flexitarisch:** Vervang de walnoten door stukjes (gerookte) kipfilet.
+- **Aanpassing:** Meer aardpeer gebruiken dan het originele recept (300-400g i.p.v. 200g)
+- **Aanpassing:** Walnoten gebruiken i.p.v. pijnboompitten, roosteren en zouten
+- Aardperen zijn te koop op boerenmarkten en bij groentespeciaalzaken
+- Je kunt aardperen ook zelf planten in de tuin - ze hebben de neiging om te woekeren
 
 ## 🗒️ Maaltijdlog
 
 | Datum | Personen | Aanpassingen | Rating |
 |-------|----------|--------------|--------|
-| | | Meer aardpeer, walnoten geroosterd & gezouten | |
+| | | | |
 
 ---
-
-*Bron: [Eten uit de volkstuin](https://etenuitdevolkstuin.nl/2013/03/04/pasta-met-aardperen/)*  
-*Toegevoegd: 2026-02-10*
+*Bron: Eten uit de volkstuin*  
+*Toegevoegd: 2026-06-02*
