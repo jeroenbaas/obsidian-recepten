@@ -57,6 +57,7 @@ Dit curry recept zit bomvol smaak, met zachte blokjes zoete aardappel die heerli
 
 ## 💡 Tips & Variaties
 
+- **Minder water:** Voeg minder water toe dan in het originele recept staat (curry wordt dan lekkerder dik)
 - **Pittigheid:** Houd je van pittig? Voeg dan een rode peper toe of gebruik meer currypasta.
 - **Budgettip:** Dit is een perfect budgetgerecht - zoete aardappel en kikkererwten zijn goedkoop en vullend.
 - **Meal prep:** De curry is perfect om vooruit te maken en smaakt de volgende dag nog beter!
@@ -65,7 +66,7 @@ Dit curry recept zit bomvol smaak, met zachte blokjes zoete aardappel die heerli
 
 | Datum | Personen | Aanpassingen | Rating |
 |-------|----------|--------------|--------|
-| | | | |
+| 2026-06-05 | 4 | Minder water toegevoegd | |
 
 ---
 
