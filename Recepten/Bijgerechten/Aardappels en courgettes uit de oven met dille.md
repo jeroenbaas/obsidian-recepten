@@ -9,7 +9,7 @@ source: "Kookboek pagina 110"
 author: ""
 dietary: ["vegetarisch", "vegan", "glutenvrij"]
 tags: ["#recept/bijgerecht", "#recept/ovenschotel", "#recept/aardappel", "#recept/courgette"]
-last_made: null
+last_made: "2025-06-07"
 rating: null
 ---
 
@@ -65,6 +65,7 @@ Voeg wat gekookte puy-linzen toe en je hebt genoeg voor vier personen als hoofdg
 | Datum | Personen | Aanpassingen | Rating |
 |-------|----------|--------------|--------|
 | 2026-03-08 | | | |
+| 2025-06-07 | | | |
 
 ---
 
