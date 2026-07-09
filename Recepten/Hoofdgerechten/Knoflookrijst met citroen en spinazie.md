@@ -8,7 +8,7 @@ portions: 4
 source: "Kookboek"
 author: ""
 dietary: ["vegetarisch", "vegan"]
-tags: ["#recept/hoofdgerecht", "#recept/rijst", "#recept/spinazie", "#recept/citroen", "#recept/knoflook"]
+tags: ["#recept/hoofdgerechten", "#recept/rijst", "#recept/spinazie", "#recept/citroen", "#recept/knoflook"]
 last_made: null
 rating: null
 ---

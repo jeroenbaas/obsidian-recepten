@@ -8,7 +8,7 @@ portions: 4
 source: "Tijdschrift"
 author: ""
 dietary: ["vegetarisch", "glutenvrij"]
-tags: ["#recept/bijgerecht", "#recept/groente", "#recept/venkel", "#recept/sperziebonen", "#recept/salade"]
+tags: ["#recept/bijgerechten", "#recept/groente", "#recept/venkel", "#recept/sperziebonen", "#recept/salade"]
 last_made: null
 rating: null
 ---

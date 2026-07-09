@@ -8,7 +8,7 @@ portions: 4
 source: "Kookboek"
 author: ""
 dietary: ["vegetarisch"]
-tags: ["#recept/hoofdgerecht", "#recept/ei", "#recept/paprika", "#recept/tomaten"]
+tags: ["#recept/hoofdgerechten", "#recept/ei", "#recept/paprika", "#recept/tomaten"]
 last_made: null
 rating: null
 ---

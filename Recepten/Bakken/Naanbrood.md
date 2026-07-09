@@ -13,7 +13,7 @@ tags:
   - "#recept/bakken"
   - "#keuken/indisch"
   - "#type/brood"
-  - "#bijgerecht"
+  - "#bijgerechten"
 last_made: null
 rating: null
 ---

@@ -8,7 +8,7 @@ portions: 4
 source: "Kookboek pagina 113"
 author: ""
 dietary: ["vegetarisch", "glutenvrij"]
-tags: ["#recept/hoofdgerecht", "#recept/tofu", "#recept/aziatisch", "#recept/teriyaki", "#recept/sperziebonen"]
+tags: ["#recept/hoofdgerechten", "#recept/tofu", "#recept/aziatisch", "#recept/teriyaki", "#recept/sperziebonen"]
 last_made: "2026-02-20"
 rating: null
 ---

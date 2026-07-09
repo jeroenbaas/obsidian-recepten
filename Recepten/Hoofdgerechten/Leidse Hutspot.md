@@ -10,7 +10,7 @@ author: ""
 dietary:
   - "optioneel vlees"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#stamppot"
   - "#nederlands"
   - "#winter"

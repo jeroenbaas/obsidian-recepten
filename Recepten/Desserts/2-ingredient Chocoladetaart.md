@@ -8,7 +8,7 @@ portions: 8
 source: "lennaomrani (social media)"
 author: "lennaomrani"
 dietary: ["vegan", "glutenvrij"]
-tags: ["#recept/dessert", "#recept/chocolade", "#recept/vegan", "#recept/glutenvrij", "#recept/makkelijk"]
+tags: ["#recept/desserts", "#recept/chocolade", "#recept/vegan", "#recept/glutenvrij", "#recept/makkelijk"]
 last_made: null
 rating: null
 ---

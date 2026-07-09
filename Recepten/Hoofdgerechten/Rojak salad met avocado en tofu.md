@@ -8,7 +8,7 @@ portions: 2 met restjes
 source: Geïnspireerd door Claire Thomson
 author: null
 dietary: [vegetarisch, veganistisch]
-tags: [#recept/hoofdgerecht, #recept/salade, #recept/aziatisch, #recept/tofu]
+tags: [#recept/hoofdgerechten, #recept/salade, #recept/aziatisch, #recept/tofu]
 last_made: null
 rating: null
 ---

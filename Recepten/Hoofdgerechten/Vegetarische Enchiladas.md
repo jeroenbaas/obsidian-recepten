@@ -10,7 +10,7 @@ author: ""
 dietary:
   - "vegetarisch"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#keuken/mexicaans"
   - "#dieet/vegetarisch"
   - "#type/enchiladas"
@@ -87,4 +87,4 @@ rating: null
 
 ---
 
-*Toegevoegd: 2026-02-09*
+*Toegevoegd: 2026-02-09

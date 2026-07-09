@@ -11,7 +11,7 @@ dietary:
   - "vegan"
   - "vegetarisch"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#keuken/amerikaans"
   - "#dieet/vegan"
   - "#dieet/vegetarisch"

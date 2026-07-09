@@ -10,7 +10,7 @@ author: null
 dietary:
   - "vegetarisch"
 tags:
-  - "#recept/dessert"
+  - "#recept/desserts"
   - "#keuken/nederlands"
   - "#dieet/vegetarisch"
   - "#categorie/gebak"

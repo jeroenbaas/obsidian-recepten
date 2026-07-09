@@ -11,7 +11,7 @@ dietary:
   - "vegetarisch"
   - "glutenvrij"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#zoete aardappel"
   - "#pinda"
   - "#ovengerecht"

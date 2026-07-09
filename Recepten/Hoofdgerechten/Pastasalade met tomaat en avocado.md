@@ -8,7 +8,7 @@ portions: 4
 source: "Kookboek - Salades & bijgerechten pagina 121"
 author: null
 dietary: [vegetarisch]
-tags: [#recept/hoofdgerecht, #recept/pasta, #recept/salade, #recept/avocado]
+tags: [#recept/hoofdgerechten, #recept/pasta, #recept/salade, #recept/avocado]
 last_made: "2026-07-02"
 rating: null
 ---

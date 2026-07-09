@@ -8,7 +8,7 @@ portions: 8-10
 source: "Kookboek pagina 124"
 author: ""
 dietary: ["vegetarisch"]
-tags: ["#recept/dessert", "#recept/cake", "#recept/appel", "#recept/yoghurt"]
+tags: ["#recept/desserts", "#recept/cake", "#recept/appel", "#recept/yoghurt"]
 last_made: null
 rating: null
 ---

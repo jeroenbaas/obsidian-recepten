@@ -11,7 +11,7 @@ dietary:
   - "vegetarisch"
   - "vegan"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#keuken/indisch"
   - "#dieet/vegan"
   - "#dieet/vegetarisch"

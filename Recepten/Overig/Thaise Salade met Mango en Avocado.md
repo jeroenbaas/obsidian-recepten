@@ -10,7 +10,7 @@ author: ""
 dietary:
   - "vegetarisch"
 tags:
-  - "#recept/bijgerecht"
+  - "#recept/bijgerechten"
   - "#salade"
   - "#thais"
 last_made: null

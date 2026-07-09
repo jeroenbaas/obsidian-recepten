@@ -10,7 +10,7 @@ author: ""
 dietary:
   - "vegetarisch"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#vegetarisch"
   - "#aubergine"
   - "#biet"
@@ -20,7 +20,7 @@ rating: null
 
 # Vegatartaar
 
-> Een vegetarische variant op steak tartare, gemaakt met geroosterde aubergine, biet en kidneybonen. Perfect als voorgerecht of licht hoofdgerecht.
+> Een vegetarische variant op steak tartare, gemaakt met geroosterde aubergine, biet en kidneybonen. Perfect als voorgerecht of licht hoofdgerechten.
 
 ## 🥘 Ingrediënten
 

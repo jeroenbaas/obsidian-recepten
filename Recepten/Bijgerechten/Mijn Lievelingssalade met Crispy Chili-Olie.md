@@ -8,19 +8,19 @@ portions: 4
 source: "Kookboek pagina 72-73"
 author: ""
 dietary: ["vegan", "glutenvrij"]
-tags: ["#recept/bijgerecht", "#recept/salade", "#recept/edamame", "#recept/mango", "#recept/avocado"]
+tags: ["#recept/bijgerechten", "#recept/salade", "#recept/edamame", "#recept/mango", "#recept/avocado"]
 last_made: null
 rating: null
 ---
 
 # Mijn Lievelingssalade met Crispy Chili-Olie
 
-**Personen:** 4 (als bijgerecht) of 2 (als hoofdgerecht)  
+**Personen:** 4 (als bijgerecht) of 2 (als hoofdgerechten)  
 **Bereidingstijd:** 10 minuten  
 **Type:** Bijgerecht / Salade  
 **Dieet:** Vegan, glutenvrij
 
-Deze salade is ideaal voor plakkerige, klammige zomerdagen, want je hoeft er alleen maar een beetje voor te snijden en er komt geen verwarming aan te pas. Als het kwik boven de 30 graden stijgt staat deze hitte bij mij op het menu. Daarnaast kun je deze salade makkelijk een dag buiten de koelkast bewaren en is dus ideaal om mee te nemen als werklunch. Mocht je de salade als hoofdgerecht in plaats van bijgerecht serveren, dan verdubbel je gewoon de porties en gooi je er een flinke hand noten overheen.
+Deze salade is ideaal voor plakkerige, klammige zomerdagen, want je hoeft er alleen maar een beetje voor te snijden en er komt geen verwarming aan te pas. Als het kwik boven de 30 graden stijgt staat deze hitte bij mij op het menu. Daarnaast kun je deze salade makkelijk een dag buiten de koelkast bewaren en is dus ideaal om mee te nemen als werklunch. Mocht je de salade als hoofdgerechten in plaats van bijgerecht serveren, dan verdubbel je gewoon de porties en gooi je er een flinke hand noten overheen.
 
 ## 🥘 Ingrediënten
 
@@ -57,7 +57,7 @@ Deze salade is ideaal voor plakkerige, klammige zomerdagen, want je hoeft er all
 ## 💡 Tips & Variaties
 
 - **Meal prep:** Deze salade is 1 dag buiten de koelkast houdbaar, perfect voor werklunch.
-- **Als hoofdgerecht:** Verdubbel de porties en voeg extra noten toe.
+- **Als hoofdgerechten:** Verdubbel de porties en voeg extra noten toe.
 - **Crispy chili-olie:** Zie pagina 174 van hetzelfde boek voor het recept, of gebruik kant-en-klare.
 - **Variatie:** Vervang mango door ananas voor een andere zoetzure touch.
 

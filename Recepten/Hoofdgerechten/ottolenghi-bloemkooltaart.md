@@ -10,7 +10,7 @@ author: "Yotam Ottolenghi"
 dietary:
   - "vegetarisch"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#keuken/midden-oosters"
   - "#dieet/vegetarisch"
   - "#bron/ottolenghi"

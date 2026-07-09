@@ -8,7 +8,7 @@ portions: 2
 source: "Kookboek pagina 122-123"
 author: ""
 dietary: ["vegan", "vegetarisch"]
-tags: ["#recept/hoofdgerecht", "#recept/japans", "#recept/okonomiyaki", "#recept/pannenkoek", "#recept/vegan"]
+tags: ["#recept/hoofdgerechten", "#recept/japans", "#recept/okonomiyaki", "#recept/pannenkoek", "#recept/vegan"]
 last_made: null
 rating: null
 ---

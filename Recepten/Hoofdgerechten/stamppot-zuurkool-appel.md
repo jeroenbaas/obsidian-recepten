@@ -10,7 +10,7 @@ author: null
 dietary:
   - "vegetarisch"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#keuken/nederlands"
   - "#dieet/vegetarisch"
   - "#seizoen/herfst"

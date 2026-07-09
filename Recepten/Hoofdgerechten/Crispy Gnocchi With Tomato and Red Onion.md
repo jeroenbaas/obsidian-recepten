@@ -8,7 +8,7 @@ portions: 4
 source: "Hetty Lui McKinnon"
 author: "Hetty Lui McKinnon"
 dietary: ["vegetarisch"]
-tags: ["#recept/hoofdgerecht", "#recept/gnocchi", "#recept/tomaten", "#recept/italiaans", "#recept/panzanella"]
+tags: ["#recept/hoofdgerechten", "#recept/gnocchi", "#recept/tomaten", "#recept/italiaans", "#recept/panzanella"]
 last_made: null
 rating: null
 ---

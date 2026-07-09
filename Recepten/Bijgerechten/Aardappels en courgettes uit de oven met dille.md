@@ -8,7 +8,7 @@ portions: 3-4
 source: "Kookboek pagina 110"
 author: ""
 dietary: ["vegetarisch", "vegan", "glutenvrij"]
-tags: ["#recept/bijgerecht", "#recept/ovenschotel", "#recept/aardappel", "#recept/courgette"]
+tags: ["#recept/bijgerechten", "#recept/ovenschotel", "#recept/aardappel", "#recept/courgette"]
 last_made: "2025-06-07"
 rating: null
 ---
@@ -58,7 +58,7 @@ Probeer in plaats van dille ook andere anijsachtige kruiden zoals venkel, dragon
 Gebruik aubergines of paprika's in plaats van, of bij, de courgettes.
 
 ### Tip
-Voeg wat gekookte puy-linzen toe en je hebt genoeg voor vier personen als hoofdgerecht.
+Voeg wat gekookte puy-linzen toe en je hebt genoeg voor vier personen als hoofdgerechten.
 
 ## 🗒️ Maaltijdlog
 

@@ -11,7 +11,7 @@ dietary:
   - "vegetarisch"
   - "vegan"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#keuken/mexicaans"
   - "#dieet/vegan"
   - "#dieet/vegetarisch"

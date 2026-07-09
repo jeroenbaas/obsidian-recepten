@@ -12,7 +12,7 @@ dietary:
   - "glutenvrij"
   - "notenvrij"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#indonesisch"
   - "#nasi"
   - "#tofu"

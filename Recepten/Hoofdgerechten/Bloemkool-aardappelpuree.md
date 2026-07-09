@@ -13,7 +13,7 @@ dietary:
   - "glutenvrij"
   - "sojavrij"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#keuken/nederlands"
   - "#dieet/vegan"
   - "#dieet/glutenvrij"

@@ -8,7 +8,7 @@ portions: 8
 source: null
 author: null
 dietary: [vegetarisch]
-tags: [#recept/dessert, #recept/taart, #recept/rabarber]
+tags: [#recept/desserts, #recept/taart, #recept/rabarber]
 last_made: null
 rating: null
 ---

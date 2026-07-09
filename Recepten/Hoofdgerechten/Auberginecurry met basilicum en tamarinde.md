@@ -8,7 +8,7 @@ portions: 4
 source: "Kookboek pagina 41"
 author: ""
 dietary: ["vegetarisch", "glutenvrij"]
-tags: ["#recept/hoofdgerecht", "#recept/aubergine", "#recept/curry", "#recept/thais"]
+tags: ["#recept/hoofdgerechten", "#recept/aubergine", "#recept/curry", "#recept/thais"]
 last_made: null
 rating: null
 ---
@@ -70,4 +70,4 @@ Aubergine is ondergewaardeerd bij mij in de keuken. Mijn man John lust het niet 
 ---
 
 *Bron: Kookboek pagina 41 (gedeeld in WhatsApp groep)*  
-*Toegevoegd: 2026-02-20*
+*Toegevoegd: 2026-02-20

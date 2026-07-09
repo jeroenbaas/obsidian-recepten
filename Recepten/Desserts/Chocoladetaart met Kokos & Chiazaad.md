@@ -8,7 +8,7 @@ portions: 8
 source: "SLA kookboek pagina 210"
 author: ""
 dietary: ["vegan", "glutenvrij", "raw"]
-tags: ["#recept/dessert", "#recept/chocolade", "#recept/kokos", "#recept/chia", "#recept/vegan", "#recept/glutenvrij"]
+tags: ["#recept/desserts", "#recept/chocolade", "#recept/kokos", "#recept/chia", "#recept/vegan", "#recept/glutenvrij"]
 last_made: null
 rating: null
 ---

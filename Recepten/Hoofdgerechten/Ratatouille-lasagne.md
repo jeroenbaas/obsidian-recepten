@@ -8,7 +8,7 @@ portions: 4
 source: "Trouw Tijd pagina 29"
 author: "Karin Luiten"
 dietary: ["vegetarisch"]
-tags: ["#recept/hoofdgerecht", "#recept/lasagne", "#recept/ratatouille", "#recept/groente", "#recept/vegetarisch"]
+tags: ["#recept/hoofdgerechten", "#recept/lasagne", "#recept/ratatouille", "#recept/groente", "#recept/vegetarisch"]
 last_made: null
 rating: null
 ---

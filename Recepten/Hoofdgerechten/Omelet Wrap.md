@@ -8,7 +8,7 @@ portions: 1
 source: "https://uitpaulineskeuken.nl/recept/omelet-wrap"
 author: "Pauline"
 dietary: ["glutenvrij", "koolhydraatarm", "vegetarisch"]
-tags: ["#recept/hoofdgerecht", "#recept/lunch", "#ei", "#wrap"]
+tags: ["#recept/hoofdgerechten", "#recept/lunch", "#ei", "#wrap"]
 last_made: null
 rating: null
 ---

@@ -8,7 +8,7 @@ portions: 4
 source: "HelloFresh"
 author: ""
 dietary: ["vegetarisch", "glutenvrij"]
-tags: ["#recept/hoofdgerecht", "#recept/tofu", "#recept/aziatisch"]
+tags: ["#recept/hoofdgerechten", "#recept/tofu", "#recept/aziatisch"]
 last_made: "2025-06-07"
 rating: null
 ---

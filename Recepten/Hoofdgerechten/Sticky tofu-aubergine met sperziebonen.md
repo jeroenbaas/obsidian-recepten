@@ -11,7 +11,7 @@ dietary:
   - "glutenvrij"
   - "vegan"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#keuken/aziatisch"
   - "#dieet/vegan"
   - "#dieet/glutenvrij"

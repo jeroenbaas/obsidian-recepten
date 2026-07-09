@@ -10,7 +10,7 @@ author: ""
 dietary:
   - "vegan"
 tags:
-  - "#recept/bijgerecht"
+  - "#recept/bijgerechten"
   - "#salade"
   - "#vegan"
 last_made: null

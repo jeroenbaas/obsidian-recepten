@@ -8,7 +8,7 @@ portions: 4
 source: "Kookboek - Deel 3 Do It Yourself"
 author: ""
 dietary: ["vegetarisch", "vegan", "glutenvrij"]
-tags: ["#recept/hoofdgerecht", "#recept/gadogado", "#recept/ovenschotel", "#recept/groente", "#recept/pindakaas"]
+tags: ["#recept/hoofdgerechten", "#recept/gadogado", "#recept/ovenschotel", "#recept/groente", "#recept/pindakaas"]
 last_made: null
 rating: null
 ---

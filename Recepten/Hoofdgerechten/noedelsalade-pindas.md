@@ -10,7 +10,7 @@ author: "Karin"
 dietary:
   - "vegan"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#keuken/aziatisch"
   - "#dieet/vegan"
   - "#dieet/eenpersoons"

@@ -10,7 +10,7 @@ author: ""
 dietary:
   - "vegetarisch"
 tags:
-  - "#recept/hoofdgerecht"
+  - "#recept/hoofdgerechten"
   - "#aziatisch"
   - "#rijst"
   - "#ei"

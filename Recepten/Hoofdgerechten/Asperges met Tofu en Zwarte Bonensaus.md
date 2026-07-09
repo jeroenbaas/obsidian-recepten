@@ -10,7 +10,7 @@ author: NYT Cooking
 rating: null
 last_made: null
 tags:
-  - #recept/hoofdgerecht
+  - #recept/hoofdgerechten
   - #recept/vegetarisch
   - #recept/aziatisch
   - #recept/snel
