@@ -11,7 +11,7 @@ dietary:
   - "vegetarisch"
   - "vegan"
 tags:
-  - "#recept/soep"
+  - "#recept/soepen"
   - "#keuken/nederlands"
   - "#dieet/vegetarisch"
   - "#dieet/vegan"

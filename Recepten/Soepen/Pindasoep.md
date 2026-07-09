@@ -8,7 +8,7 @@ portions: 4
 source: "https://www.hofweb.nl/recepten/pindasoep"
 author: "Marie-Sophie (Wauw Factory)"
 dietary: ["vegan", "vegetarisch"]
-tags: ["#recept/soep", "#recept/pinda", "#recept/vegan"]
+tags: ["#recept/soepen", "#recept/pinda", "#recept/vegan"]
 last_made: null
 rating: null
 ---

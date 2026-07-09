@@ -10,7 +10,7 @@ author: ""
 dietary:
   - ""
 tags:
-  - "#recept/soep"
+  - "#recept/soepen"
   - "#recept/herfst"
   - "#pompoen"
   - "#spek"

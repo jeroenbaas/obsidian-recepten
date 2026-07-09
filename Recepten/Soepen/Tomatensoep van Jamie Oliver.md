@@ -10,7 +10,7 @@ author: "Jamie Oliver"
 dietary:
   - "vegetarisch mogelijk (met groentebouillon)"
 tags:
-  - "#recept/soep"
+  - "#recept/soepen"
   - "#seizoen/winter"
   - "#keuken/italiaans"
   - "#bereiding/snel"

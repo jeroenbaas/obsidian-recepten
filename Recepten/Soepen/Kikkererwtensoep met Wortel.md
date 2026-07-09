@@ -11,7 +11,7 @@ dietary:
   - "vegan"
   - "glutenvrij"
 tags:
-  - "#recept/soep"
+  - "#recept/soepen"
   - "#recept/vegan"
   - "#kikkererwten"
   - "#pittig"

@@ -10,7 +10,7 @@ author: ""
 dietary:
   - "vegetarisch"
 tags:
-  - "#recept/soep"
+  - "#recept/soepen"
   - "#recept/vegetarisch"
   - "#tomaten"
 last_made: null

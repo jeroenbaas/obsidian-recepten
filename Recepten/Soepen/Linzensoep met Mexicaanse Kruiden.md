@@ -10,7 +10,7 @@ author: ""
 dietary:
   - "vegan"
 tags:
-  - "#recept/soep"
+  - "#recept/soepen"
   - "#recept/vegan"
   - "#recept/pittig"
   - "#linzen"

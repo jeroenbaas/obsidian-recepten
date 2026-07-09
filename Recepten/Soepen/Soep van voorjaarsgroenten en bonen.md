@@ -8,7 +8,7 @@ portions: 7
 source: "https://feelingfoodtoday.wordpress.com/soep-van-voorjaarsgroenten-en-bonen-van-jamie/"
 author: "Jamie Oliver"
 dietary: ["vegetarisch"]
-tags: ["#recept/soep", "#recept/groenten", "#recept/jamie-oliver"]
+tags: ["#recept/soepen", "#recept/groenten", "#recept/jamie-oliver"]
 last_made: null
 rating: null
 ---
