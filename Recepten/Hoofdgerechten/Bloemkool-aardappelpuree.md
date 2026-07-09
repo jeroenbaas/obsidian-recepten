@@ -1,6 +1,6 @@
 ---
 title: "Bloemkool-aardappelpuree"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Nederlands"
 difficulty: "Makkelijk"
 time: "40 minuten"

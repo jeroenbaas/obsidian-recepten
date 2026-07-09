@@ -1,6 +1,6 @@
 ---
 title: "Groene Kokosrijst met Ei en Pindasaus"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Aziatisch"
 difficulty: "Gemiddeld"
 time: "40 minuten"

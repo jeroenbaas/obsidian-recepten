@@ -1,6 +1,6 @@
 ---
 title: "Tomatensoep"
-category: "Soep"
+category: "Soepen"
 cuisine: "Italiaans"
 difficulty: "Gemiddeld"
 time: "45 minuten"

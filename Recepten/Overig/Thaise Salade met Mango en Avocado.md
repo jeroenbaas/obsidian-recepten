@@ -1,6 +1,6 @@
 ---
 title: "Thaise Salade met Mango en Avocado"
-category: "Bijgerecht"
+category: "Bijgerechten"
 cuisine: "Thais"
 difficulty: "Makkelijk"
 time: "15 minuten"

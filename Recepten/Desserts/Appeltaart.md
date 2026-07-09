@@ -1,6 +1,6 @@
 ---
 title: "Appeltaart"
-category: "Dessert"
+category: "Desserts"
 cuisine: "Nederlands"
 difficulty: "Gemiddeld"
 time: "75 minuten"

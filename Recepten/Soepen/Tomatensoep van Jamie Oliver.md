@@ -1,6 +1,6 @@
 ---
 title: "Tomatensoep van Jamie Oliver"
-category: "Soep"
+category: "Soepen"
 cuisine: "Italiaans/Engels"
 difficulty: "Makkelijk"
 time: "40 minuten"

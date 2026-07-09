@@ -1,6 +1,6 @@
 ---
 title: "Zuurkool Wraps"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Amerikaans/Vegan"
 difficulty: "Makkelijk"
 time: "25 minuten"

@@ -1,6 +1,6 @@
 ---
 title: Thai Tomato and Courgette Salad
-category: Bijgerechten
+category: "Bijgerechten"
 cuisine: Thais
 difficulty: Makkelijk
 time: 20 min

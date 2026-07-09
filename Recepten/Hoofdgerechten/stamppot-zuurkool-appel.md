@@ -1,6 +1,6 @@
 ---
 title: "Stamppot met zuurkool, noten en gebakken appel"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Nederlands"
 difficulty: "Makkelijk"
 time: "50 minuten"

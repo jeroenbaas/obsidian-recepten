@@ -1,6 +1,6 @@
 ---
 title: "Kikkererwtensoep met Wortel"
-category: "Soep"
+category: "Soepen"
 cuisine: "Midden-Oosters"
 difficulty: "Gemiddeld"
 time: "45 minuten"

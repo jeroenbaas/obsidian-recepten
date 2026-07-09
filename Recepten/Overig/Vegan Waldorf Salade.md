@@ -1,6 +1,6 @@
 ---
 title: "Vegan Waldorf Salade met Appel, Bleekselderij & Walnoten"
-category: "Bijgerecht"
+category: "Bijgerechten"
 cuisine: "Amerikaans"
 difficulty: "Makkelijk"
 time: "15 minuten"

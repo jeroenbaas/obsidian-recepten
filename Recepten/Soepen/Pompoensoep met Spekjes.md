@@ -1,6 +1,6 @@
 ---
 title: "Pompoensoep met Spekjes"
-category: "Soep"
+category: "Soepen"
 cuisine: "Nederlands"
 difficulty: "Gemiddeld"
 time: "60 minuten"

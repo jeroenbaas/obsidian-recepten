@@ -1,6 +1,6 @@
 ---
 title: "Gratin met Zoete Aardappel"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Modern"
 difficulty: "Gemiddeld"
 time: "60 minuten"

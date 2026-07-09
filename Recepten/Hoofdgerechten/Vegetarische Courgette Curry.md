@@ -1,6 +1,6 @@
 ---
 title: "Vegetarische Courgette Curry"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Indiaas"
 difficulty: "Gemiddeld"
 time: "45 minuten"

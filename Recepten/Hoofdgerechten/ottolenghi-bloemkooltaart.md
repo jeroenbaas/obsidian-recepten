@@ -1,6 +1,6 @@
 ---
 title: "Ottolenghi's bloemkooltaart met rode ui"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Midden-Oosters"
 difficulty: "Gemiddeld"
 time: "75 minuten + afkoeltijd"

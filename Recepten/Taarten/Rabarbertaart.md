@@ -1,6 +1,6 @@
 ---
 title: Rabarbertaart
-category: Dessert
+category: "Desserts"
 cuisine: Nederlands
 difficulty: makkelijk
 time: 75 minuten

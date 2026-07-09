@@ -1,6 +1,6 @@
 ---
 title: "Vega Tacos"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Mexicaans"
 difficulty: "Makkelijk"
 time: "20 minuten"

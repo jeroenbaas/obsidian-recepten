@@ -1,6 +1,6 @@
 ---
 title: "Vegetarische Enchiladas"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Mexicaans"
 difficulty: "Gemiddeld"
 time: "45 minuten"

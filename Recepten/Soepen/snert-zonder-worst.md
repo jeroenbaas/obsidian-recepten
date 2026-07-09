@@ -1,6 +1,6 @@
 ---
 title: "Snert zonder worst"
-category: "Soep"
+category: "Soepen"
 cuisine: "Nederlands"
 difficulty: "Makkelijk"
 time: "90 minuten"

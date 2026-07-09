@@ -1,6 +1,6 @@
 ---
 title: "Sticky tofu-aubergine met sperziebonen"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Aziatisch"
 difficulty: "Makkelijk"
 time: "30 minuten"

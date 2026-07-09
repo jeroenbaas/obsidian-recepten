@@ -1,6 +1,6 @@
 ---
 title: "Linzensoep met Mexicaanse Kruiden"
-category: "Soep"
+category: "Soepen"
 cuisine: "Mexicaans"
 difficulty: "Makkelijk"
 time: "35 minuten"

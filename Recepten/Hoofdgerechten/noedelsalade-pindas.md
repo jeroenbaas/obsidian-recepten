@@ -1,6 +1,6 @@
 ---
 title: "Noedelsalade met pinda's"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Aziatisch"
 difficulty: "Makkelijk"
 time: "20 minuten"

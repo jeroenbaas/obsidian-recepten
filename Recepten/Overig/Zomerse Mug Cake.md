@@ -1,6 +1,6 @@
 ---
 title: Zomerse Mug Cake
-category: Overig
+category: "Overig"
 cuisine: Vegan
 difficulty: Makkelijk
 time: 25 min
@@ -57,4 +57,4 @@ rating: null
 
 | Datum | Gegeten door | Notities |
 |-------|--------------|----------|
-| | | |
+| | | 

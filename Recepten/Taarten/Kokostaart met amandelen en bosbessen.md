@@ -1,6 +1,6 @@
 ---
 title: Kokostaart met amandelen en bosbessen
-category: Taart
+category: "Taarten"
 cuisine: Internationaal
 difficulty: makkelijk
 time: 70 minuten

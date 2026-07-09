@@ -1,6 +1,6 @@
 ---
 title: "Kokos Dal"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Indisch"
 difficulty: "Gemiddeld"
 time: "1 uur 30 minuten"

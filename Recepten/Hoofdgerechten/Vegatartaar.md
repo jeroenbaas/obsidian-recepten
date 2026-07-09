@@ -1,6 +1,6 @@
 ---
 title: "Vegatartaar"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Frans/Modern"
 difficulty: "Gemiddeld"
 time: "60 minuten"

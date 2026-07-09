@@ -1,6 +1,6 @@
 ---
 title: Asperges met Tofu en Zwarte Bonensaus
-category: Hoofdgerecht
+category: Hoofdgerechten
 cuisine: Chinees
 difficulty: Gemiddeld
 time: 25 minuten

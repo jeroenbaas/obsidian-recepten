@@ -1,6 +1,6 @@
 ---
 title: "Leidse Hutspot"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Nederlands"
 difficulty: "Makkelijk"
 time: "45 minuten"

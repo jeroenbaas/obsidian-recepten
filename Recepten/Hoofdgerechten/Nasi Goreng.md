@@ -1,6 +1,6 @@
 ---
 title: "Nasi Goreng"
-category: "Hoofdgerecht"
+category: "Hoofdgerechten"
 cuisine: "Indonesisch"
 difficulty: "Gemiddeld"
 time: "35 minuten"
