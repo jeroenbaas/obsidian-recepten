@@ -9,7 +9,7 @@ source: "https://www.vakervrolijk.nl/vegan-ratatouille-uit-de-oven/"
 author: "Romy (Vakervrolijk)"
 dietary: ["vegan", "vegetarisch", "glutenvrij", "lactosevrij"]
 tags: ["#recept/hoofdgerechten", "#recept/vegan", "#recept/oven"]
-last_made: null
+last_made: 2026-08-30
 rating: null
 ---
 
@@ -59,6 +59,7 @@ Deze vegan ratatouille barst van de groenten, heeft lekker veel smaak en de oven
 
 | Datum | Personen | Aanpassingen | Rating |
 |-------|----------|--------------|--------|
+| 2026-08-30 | 4 | | |
 
 ---
 
