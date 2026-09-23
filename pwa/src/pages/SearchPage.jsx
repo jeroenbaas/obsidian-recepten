@@ -23,8 +23,10 @@ export default function SearchPage({ recipes }) {
   const fuse = useMemo(() => {
     return new Fuse(recipes, {
       keys: ['title', 'tags', 'ingredients', 'category', 'cuisine', 'content'],
-      threshold: 0.3,
-      includeScore: true
+      threshold: 0.4,
+      includeScore: true,
+      ignoreLocation: true,
+      minMatchCharLength: 2,
     });
   }, [recipes]);
 
