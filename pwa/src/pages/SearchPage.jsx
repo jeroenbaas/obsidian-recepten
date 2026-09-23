@@ -1,16 +1,28 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { Search, ChefHat } from 'lucide-react';
+import { useLocation } from 'react-router-dom';
 import Fuse from 'fuse.js';
 import RecipeCard from '../components/RecipeCard';
 
-export default function SearchPage({ recipes, currentRecipePath }) {
+export default function SearchPage({ recipes }) {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState([]);
+  const location = useLocation();
+
+  // Extract active recipe ID from current URL
+  const activeRecipeId = useMemo(() => {
+    const raw = location.pathname || '';
+    const decoded = decodeURIComponent(raw);
+    return decoded
+      .replace(/^\/?(recipe\/|recipes\/)?/, '')
+      .replace(/\.md$/, '')
+      .trim();
+  }, [location.pathname]);
 
   // Initialize Fuse.js
   const fuse = useMemo(() => {
     return new Fuse(recipes, {
-      keys: ['title', 'tags', 'ingredients', 'category', 'content'],
+      keys: ['title', 'tags', 'ingredients', 'category', 'cuisine', 'content'],
       threshold: 0.3,
       includeScore: true
     });
@@ -43,13 +55,17 @@ export default function SearchPage({ recipes, currentRecipePath }) {
       
       <div className="recipe-list">
         {results.length > 0 ? (
-          results.map(recipe => (
-            <RecipeCard 
-              key={recipe.id} 
-              recipe={recipe} 
-              isActive={recipe.url === `/recipes/${currentRecipePath}`}
-            />
-          ))
+          results.map(recipe => {
+            const cleanId = (recipe.id || '').replace(/^\/?(recipe\/|recipes\/)?/, '').replace(/\.md$/, '').trim();
+            const isActive = !!activeRecipeId && cleanId === activeRecipeId;
+            return (
+              <RecipeCard 
+                key={recipe.id} 
+                recipe={recipe} 
+                isActive={isActive}
+              />
+            );
+          })
         ) : (
           <div className="empty-state">
             <ChefHat size={48} />

@@ -4,11 +4,10 @@ import { Clock, Users, ChefHat } from 'lucide-react';
 
 export default function RecipeCard({ recipe, isActive }) {
   const navigate = useNavigate();
-  const location = useLocation();
   
-  // Keep the current search query in URL when navigating
   const handleClick = () => {
-    navigate(`/${recipe.id}${location.search}`);
+    const cleanId = (recipe.id || '').replace(/^\/?(recipe\/|recipes\/)?/, '');
+    navigate(`/recipe/${encodeURIComponent(cleanId)}`);
   };
 
   return (
@@ -21,6 +20,11 @@ export default function RecipeCard({ recipe, isActive }) {
         {recipe.time && (
           <span className="flex items-center gap-1" title="Bereidingstijd">
             <Clock size={14} /> {recipe.time}
+          </span>
+        )}
+        {recipe.portions && (
+          <span className="flex items-center gap-1" title="Porties">
+            <Users size={14} /> {recipe.portions}
           </span>
         )}
         {recipe.difficulty && (

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import SearchPage from './pages/SearchPage';
 import RecipePage from './pages/RecipePage';
 import { ChefHat } from 'lucide-react';
@@ -7,10 +7,6 @@ import { ChefHat } from 'lucide-react';
 function AppContent() {
   const [recipes, setRecipes] = useState([]);
   const [loading, setLoading] = useState(true);
-  const location = useLocation();
-  
-  // Extract the current recipe path from URL
-  const currentRecipePath = location.pathname.startsWith('/') ? location.pathname.substring(1) : location.pathname;
 
   useEffect(() => {
     // Fetch the generated recipes index
@@ -39,7 +35,7 @@ function AppContent() {
     <div className="app-container">
       <div className="main-content">
         {/* Left Sidebar: Search & List */}
-        <SearchPage recipes={recipes} currentRecipePath={currentRecipePath} />
+        <SearchPage recipes={recipes} />
         
         {/* Right Area: Detail View */}
         <Routes>
@@ -52,6 +48,12 @@ function AppContent() {
               </div>
             </div>
           } />
+          <Route path="/recipe/*" element={
+            <RecipePage recipes={recipes} />
+          } />
+          <Route path="/recipes/*" element={
+            <RecipePage recipes={recipes} />
+          } />
           <Route path="/*" element={
             <RecipePage recipes={recipes} />
           } />
@@ -63,7 +65,7 @@ function AppContent() {
 
 export default function App() {
   return (
-    <Router basename={import.meta.env.BASE_URL}>
+    <Router>
       <AppContent />
     </Router>
   );

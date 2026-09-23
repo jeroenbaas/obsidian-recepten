@@ -77,16 +77,19 @@ function generateIndex() {
       fs.copyFileSync(filePath, destPath);
 
       // Create index entry
-      const urlPath = `/recipes/${relativePath.replace(/\\/g, '/')}`; // Ensure web paths use forward slashes
-      const slug = urlPath.replace('.md', '');
+      const cleanRelativePath = relativePath.replace(/\\/g, '/');
+      const slug = cleanRelativePath.replace(/\.md$/, '');
+      const urlPath = `/recipes/${cleanRelativePath}`;
       
       recipesIndex.push({
         id: slug,
+        slug: slug,
         title: parsed.data.title || fileName.replace('.md', ''),
         category: parsed.data.category || '',
         cuisine: parsed.data.cuisine || '',
         difficulty: parsed.data.difficulty || '',
         time: parsed.data.time || '',
+        portions: parsed.data.portions || parsed.data.servings || parsed.data.personen || '',
         dietary: parsed.data.dietary || [],
         tags: parsed.data.tags || [],
         url: urlPath,
