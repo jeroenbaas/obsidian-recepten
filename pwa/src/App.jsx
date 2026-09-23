@@ -2,9 +2,11 @@ import React, { useState, useEffect } from 'react';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import SearchPage from './pages/SearchPage';
 import RecipePage from './pages/RecipePage';
-import { ChefHat } from 'lucide-react';
+import { ChefHat, ChevronsLeft, ChevronsRight } from 'lucide-react';
+
 
 function AppContent() {
+  const [sidebarOpen, setSidebarOpen] = useState(true);
   const [recipes, setRecipes] = useState([]);
   const [loading, setLoading] = useState(true);
 
@@ -35,7 +37,12 @@ function AppContent() {
     <div className="app-container">
       <div className="main-content">
         {/* Left Sidebar: Search & List */}
-        <SearchPage recipes={recipes} />
+        <div className="sidebar-toggle-wrapper" style={{ position: 'relative' }}>
+          <button className="sidebar-toggle" onClick={() => setSidebarOpen(prev => !prev)}>
+            {sidebarOpen ? <ChevronsLeft size={20} /> : <ChevronsRight size={20} />}
+          </button>
+          {sidebarOpen && <SearchPage recipes={recipes} />}
+        </div>
         
         {/* Right Area: Detail View */}
         <Routes>
