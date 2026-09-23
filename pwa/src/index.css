@@ -135,7 +135,7 @@ h3 { font-size: 1.25rem; margin-top: 1.25rem; margin-bottom: 0.5rem; }
 /* Sidebar / Search Area */
 .sidebar {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-shrink: 0;
   position: relative;
   background-color: var(--bg-secondary);
@@ -156,7 +156,8 @@ h3 { font-size: 1.25rem; margin-top: 1.25rem; margin-bottom: 0.5rem; }
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  width: 340px;
+  min-width: 0;
+  width: 100%;
 }
 
 .sidebar-collapsed .sidebar-inner {
