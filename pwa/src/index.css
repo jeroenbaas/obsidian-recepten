@@ -135,41 +135,70 @@ h3 { font-size: 1.25rem; margin-top: 1.25rem; margin-bottom: 0.5rem; }
 /* Sidebar / Search Area */
 .sidebar {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-shrink: 0;
+  position: relative;
   background-color: var(--bg-secondary);
   border-right: 1px solid var(--border-color);
   z-index: 10;
   height: 100vh;
-  overflow: hidden;
+  overflow: visible;
+  width: 380px;
+  transition: width 0.3s ease;
 }
 
-/* Sidebar Toggle Styles */
-.sidebar-toggle-wrapper {
-  position: relative;
+.sidebar.sidebar-collapsed {
+  width: 40px;
 }
+
+.sidebar-inner {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  width: 340px;
+}
+
+.sidebar-collapsed .sidebar-inner {
+  display: none;
+}
+
 .sidebar-toggle {
   position: absolute;
-  top: 1rem;
-  right: -1.5rem;
+  top: 50%;
+  right: -14px;
+  transform: translateY(-50%);
   background: var(--bg-secondary);
   border: 1px solid var(--border-color);
-  border-radius: var(--radius-sm);
-  padding: 0.25rem;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  padding: 0;
   cursor: pointer;
-  box-shadow: var(--shadow-sm);
+  box-shadow: var(--shadow-md);
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: background 0.2s;
-}
-.sidebar-toggle:hover {
-  background: var(--bg-tertiary);
+  z-index: 20;
+  color: var(--text-secondary);
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
 }
 
-@media (min-width: 768px) {
+.sidebar-toggle:hover {
+  background: var(--accent-primary);
+  color: white;
+  box-shadow: var(--shadow-lg);
+}
+
+@media (max-width: 767px) {
   .sidebar {
-    width: 380px;
-    flex-shrink: 0;
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid var(--border-color);
+  }
+  .sidebar-toggle {
+    display: none;
   }
 }
 

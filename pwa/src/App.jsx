@@ -2,8 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import SearchPage from './pages/SearchPage';
 import RecipePage from './pages/RecipePage';
-import { ChefHat, ChevronsLeft, ChevronsRight } from 'lucide-react';
-
+import { ChefHat, PanelLeftClose, PanelLeftOpen } from 'lucide-react';
 
 function AppContent() {
   const [sidebarOpen, setSidebarOpen] = useState(true);
@@ -37,13 +36,19 @@ function AppContent() {
     <div className="app-container">
       <div className="main-content">
         {/* Left Sidebar: Search & List */}
-        <div className="sidebar-toggle-wrapper" style={{ position: 'relative' }}>
-          <button className="sidebar-toggle" onClick={() => setSidebarOpen(prev => !prev)}>
-            {sidebarOpen ? <ChevronsLeft size={20} /> : <ChevronsRight size={20} />}
+        <div className={`sidebar${sidebarOpen ? '' : ' sidebar-collapsed'}`}>
+          <div className="sidebar-inner">
+            <SearchPage recipes={recipes} />
+          </div>
+          <button
+            className="sidebar-toggle"
+            onClick={() => setSidebarOpen(prev => !prev)}
+            title={sidebarOpen ? 'Zijbalk verbergen' : 'Zijbalk tonen'}
+          >
+            {sidebarOpen ? <PanelLeftClose size={18} /> : <PanelLeftOpen size={18} />}
           </button>
-          {sidebarOpen && <SearchPage recipes={recipes} />}
         </div>
-        
+
         {/* Right Area: Detail View */}
         <Routes>
           <Route path="/" element={
