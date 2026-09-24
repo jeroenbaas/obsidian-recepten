@@ -25,31 +25,33 @@ Rollen of dippen, het mag allebei! Vega roti om je vingers bij af te likken.
 
 | Ingrediënt | Hoeveelheid | Opmerking |
 |------------|-------------|-----------|
-| Vastkokende aardappelen | 800 g | Geschild |
+| Voorgekookte aardappelen | 800 g | |
 | Eieren | 4 stuks | |
-| Trostomaten | 500 g | |
+| Trostomaten | 500 g | In blokjes |
 | Rotivellen | 4 stuks | |
 | Masala-specerijen | 3 el | |
 | Gesnipperde ui | 175 g | |
 | Sperziebonen (diepvries) | 400 g | |
 | Maggiblokjes | 4 stuks | |
 | Kristalsuiker | 1 tl | |
-| Knoflook | 4 teentjes | |
+| Knoflook | 4 teentjes | Fijngesneden |
 | Zwarte peper | Naar smaak | |
-| Zout | Naar smaak | |
+| Zout | Naar smaak | Eventueel |
 | Zonnebloemolie | 3 el | |
+| Water | 500 ml | |
 
 ## 👨‍🍳 Bereiding
 
-1. Snijd de geschilde aardappelen in gelijke stukken en kook ze in water met 2 maggiblokjes in ca. 15 minuten gaar. Giet af en laat uitstomen.
-2. Kook de eieren in ca. 8 minuten hard. Laat schrikken onder koud water, pel ze en snijd doormidden.
-3. Verhit de zonnebloemolie in een hapjespan en fruit de ui met de knoflook (fijngehakt) ca. 3 minuten.
-4. Voeg de masala-specerijen toe en bak 1 minuut mee tot het geurig is.
-5. Voeg de trostomaten (in stukken gesneden) toe samen met de overige 2 maggiblokjes en de kristalsuiker. Laat ca. 5 minuten zachtjes pruttelen.
-6. Voeg de sperziebonen toe en laat ca. 8 minuten meegaren tot de bonen beetgaar zijn.
-7. Voeg de gekookte aardappelen toe en roer voorzichtig om. Breng op smaak met zout en zwarte peper. Laat nog 2-3 minuten doorwarmen.
-8. Verwarm de rotivellen volgens de verpakking.
-9. Serveer de roti met het aardappel-boontjesmengsel en de gehalveerde eieren erop. Rollen of dippen!
+1. Haal 400 g diepvries sperziebonen alvast uit de vriezer. Snijd 500 g trostomaten in blokjes. Snijd 4 teentjes knoflook fijn.
+2. Verhit 3 el zonnebloemolie in een ruime hapjespan op middelhoog vuur en bak de knoflook en 175 g gesnipperde ui ca. 2 minuten tot glazig.
+3. Voeg 3 el masala-specerijen toe en bak 1 minuut mee. Voeg de tomatenblokjes toe en bak het geheel zacht in ca. 8 minuten.
+4. Halveer ondertussen 800 g voorgekookte aardappelen.
+5. Voeg de aardappelen toe aan de hapjespan en roer goed door. Voeg 4 maggiblokjes en 500 ml water toe. Breng aan de kook en laat ca. 20 minuten sudderen op middelhoog vuur.
+6. Voeg na 10 minuten de sperziebonen toe. Roer af en toe.
+7. Breng ondertussen een pan water aan de kook. Voeg 4 eieren toe en kook de eieren in 8-10 minuten hard. Laat schrikken onder koud water en pel ze.
+8. Leg de eieren vervolgens in de rotisaus en laat ze 1 minuut doorwarmen.
+9. Breng de saus op smaak met 1 tl suiker en peper en eventueel een snuf zout.
+10. Verwarm 4 rotivellen volgens de aanwijzing op de verpakking en serveer deze bij het rotigerecht.
 
 ## 💡 Tips & Variaties
 
